@@ -20,7 +20,7 @@ export default function Upload() {
       alert(`Uploading ${file.name} to ${selectedPlatform} with description: ${description}`)
       // Add your upload logic here
     } else {
-      alert('Please complete all fields before uploading.')
+      alert('Please complete all fie0lds before uploading.')
     }
   }
 
