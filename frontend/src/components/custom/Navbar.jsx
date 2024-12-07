@@ -1,7 +1,6 @@
-
-import { Button } from "../../components/ui/button"
-import React, { useRef, useState } from "react"
-import { motion, useMotionValueEvent, useScroll } from "framer-motion"
+import React, { useRef, useState } from "react";
+import { motion, useMotionValueEvent, useScroll } from "framer-motion";
+import { Button } from "../../components/ui/button";
 import {
   NavigationMenu,
   NavigationMenuContent,
@@ -9,20 +8,31 @@ import {
   NavigationMenuLink,
   NavigationMenuList,
   NavigationMenuTrigger,
-} from "../../components/ui/navigation-menu"
+} from "../../components/ui/navigation-menu";
+
+import BlueCreateWalletButton from "./walletutils"; // Correct import
 
 const Navbar = () => {
-  const [isHidden, setisHidden] = useState(false)
-  const { scrollY } = useScroll()
-  const lastYRef = useRef(0)
+  const [isHidden, setisHidden] = useState(false);
+  const { scrollY } = useScroll();
+  const lastYRef = useRef(0);
 
   useMotionValueEvent(scrollY, "change", (y) => {
-    const diff = y - lastYRef.current
+    const diff = y - lastYRef.current;
     if (Math.abs(diff) > 50) {
-      setisHidden(diff > 0)
-      lastYRef.current = y
+      setisHidden(diff > 0);
+      lastYRef.current = y;
     }
-  })
+  });
+
+  // Handlers for wallet events
+  const handleSuccess = (address) => {
+    alert(`Wallet connected: ${address}`);
+  };
+
+  const handleError = (error) => {
+    alert(`Error: ${error.message}`);
+  };
 
   return (
     <motion.nav
@@ -36,26 +46,21 @@ const Navbar = () => {
         onFocusCapture={() => setisHidden(false)}
         whileHover="visible"
         variants={{
-          hidden: {
-            y: "-100%",
-          },
-          visible: {
-            y: "0%",
-          },
+          hidden: { y: "-100%" },
+          visible: { y: "0%" },
         }}
         transition={{ duration: 0.3 }}
         className="nav-list w-fit h-16 z-20 px-8 gap-3 list-none flex flex-row justify-center items-center fixed rounded-full border border-neutral-700 bg-gray-900 text-white dark:border-slate-200 dark:bg-slate-100 dark:text-black"
       >
-        <h1 className=" font-LindedHill text-xl">PulseChain</h1> |
+        <h1 className="font-LindedHill text-xl">PulseChain</h1> |
         <Button variant="ghost">Home</Button> |
         <Button variant="ghost">Features</Button> |
         <Button variant="ghost">Steps</Button> |
-        <Button variant="ghost">Sign In</Button> |
+        <BlueCreateWalletButton handleSuccess={handleSuccess} handleError={handleError} /> |
         <Button variant="ghost">Contact</Button>
       </motion.div>
     </motion.nav>
-  )
-}
+  );
+};
 
-export default Navbar
-
+export default Navbar;
