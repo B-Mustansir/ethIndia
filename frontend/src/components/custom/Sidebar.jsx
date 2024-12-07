@@ -1,27 +1,20 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { NavLink, useNavigate } from "react-router-dom";
-import { LayoutDashboard, PenTool, FileText, LogOut } from "lucide-react";
+import { LayoutDashboard, PenTool, FileText, LogOut, Bot } from "lucide-react";
 
 export function Sidebar({ setActivePage }) {
-  const navigate = useNavigate(); // Hook for navigation
-
-  const handleSignOut = () => {
-    localStorage.removeItem("wallet"); // Remove the stored token
-    alert("You have been signed out.");
-    navigate("/"); // Redirect to the landing page or home
-  };
-
   const sidebarItems = [
     { name: "Dashboard", icon: LayoutDashboard, action: "dashboard" },
     { name: "Content Creation", icon: PenTool, action: "content-creation" },
     { name: "Content Draft", icon: FileText, action: "content-draft" },
-    { name: "Sign Out", icon: LogOut, action: "sign-out", isSignOut: true }, // Added flag for sign-out action
+    { name: "Trading Bot", icon: Bot, action: "trading-bot" },
+    { name: "Sign Out", icon: LogOut, isSignOut: true },
   ];
 
   return (
     <motion.div
-      className="w-64 bg-gray-900 h-screen p-4 flex flex-col space-y-6 border-r border-gray-700"
+      className="w-64 bg-black h-screen p-4 flex flex-col space-y-6 border-r border-gray-700"
       initial={{ x: -100, opacity: 0 }}
       animate={{ x: 0, opacity: 1 }}
       transition={{ duration: 0.5 }}
@@ -35,27 +28,24 @@ export function Sidebar({ setActivePage }) {
         >
           {item.isSignOut ? (
             <button
-              onClick={handleSignOut}
+              onClick={() => {
+                localStorage.removeItem("wallet");
+                alert("You have been signed out.");
+                setActivePage("dashboard"); // Redirect to dashboard on sign out
+              }}
               className="w-full flex items-center gap-4 p-3 rounded-lg text-sm font-medium transition text-gray-400 hover:text-white hover:bg-gray-800"
             >
               <item.icon className="h-5 w-5" />
               {item.name}
             </button>
           ) : (
-            <NavLink
-              to={`/${item.action}`}
-              className={({ isActive }) =>
-                `w-full flex items-center gap-4 p-3 rounded-lg text-sm font-medium transition ${
-                  isActive
-                    ? "bg-gray-800 text-white"
-                    : "text-gray-400 hover:text-white hover:bg-gray-800"
-                }`
-              }
+            <button
               onClick={() => setActivePage(item.action)}
+              className="w-full flex items-center gap-4 p-3 rounded-lg text-sm font-medium transition text-gray-400 hover:text-white hover:bg-gray-800"
             >
               <item.icon className="h-5 w-5" />
               {item.name}
-            </NavLink>
+            </button>
           )}
         </motion.div>
       ))}

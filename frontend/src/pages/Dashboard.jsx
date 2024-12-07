@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { Sidebar } from "../components/custom/Sidebar";
 import { UploadPage } from "../components/custom/UploadPage";
-import { Draft } from "../components/custom/Draft";
+import { Draft }  from "../components/custom/Draft";
 import { Card, CardContent, CardHeader, CardTitle } from "../components/ui/card";
 import { Button } from "../components/ui/button";
 import { Progress } from "../components/ui/progress";
@@ -23,7 +23,7 @@ export default function Dashboard() {
           animate={{ opacity: 1, y: 0 }}
           exit={{ opacity: 0, y: -20 }}
           transition={{ duration: 0.3 }}
-          className="rounded-lg bg-gray-900 p-6 shadow-lg"
+          className="rounded-lg bg-black p-6 shadow-lg"
         >
           {activePage === "dashboard" && <DashboardContent />}
           {activePage === "content-creation" && <UploadPage />}
@@ -70,7 +70,7 @@ function Web3PersonaOverview() {
           <Progress
             value={78}
             className="h-2 bg-white/20"
-            indicatorClassName="bg-gradient-to-r from-red-500 via-yellow-500 to-green-500"
+            
           />
           <div className="flex justify-between text-white">
             <span>Total Followers</span>

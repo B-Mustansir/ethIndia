@@ -1,5 +1,8 @@
 import React from "react";
 import { motion } from "framer-motion";
+import F1 from "../../assets/F1.png"
+import F2 from "../../assets/F2.png"
+import F3 from "../../assets/F3.png"
 
 function Features() {
   const text = "Elevate Your Social Media Strategy with Intelligent Automation";
@@ -103,7 +106,7 @@ function Features() {
             viewport={{ once: true, amount: 0.3 }}
           >
             <img
-              src="/images/feature2.png"
+              src={F1}
               alt="Feature 1"
               className="w-[85%] h-auto rounded-lg"
             />
@@ -142,7 +145,7 @@ function Features() {
             viewport={{ once: true, amount: 0.3 }}
           >
             <img
-              src="/images/feature3.png"
+              src={F2}
               alt="Feature 2"
               className="w-[85%] h-auto rounded-lg"
             />
@@ -151,7 +154,7 @@ function Features() {
 
         {/* Feature Block 3 */}
         <motion.div
-          className="bg-blue-300 w-[75rem] h-[32rem] rounded-xl flex flex-row-reverse shadow-lg"
+          className="bg-blue-400 w-[75rem] h-[32rem] rounded-xl flex flex-row-reverse shadow-lg"
           variants={blockVariants}
           initial="hidden"
           whileInView="visible"
@@ -181,7 +184,7 @@ function Features() {
             viewport={{ once: true, amount: 0.3 }}
           >
             <img
-              src="/images/feature4.png"
+              src={F3}
               alt="Feature 3"
               className="w-[85%] h-auto rounded-lg"
             />
