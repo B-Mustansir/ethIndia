@@ -10,7 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@chakra-ui/react": "^3.2.3",
     "@coinbase/wallet-sdk": "^4.2.4",
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.13.5",
     "@hookform/resolvers": "^3.9.1",
     "@radix-ui/react-avatar": "^1.1.1",
     "@radix-ui/react-dialog": "^1.1.2",
@@ -19,6 +22,7 @@
     "@radix-ui/react-progress": "^1.1.0",
     "@radix-ui/react-select": "^2.1.2",
     "@radix-ui/react-slot": "^1.1.0",
+    "@radix-ui/react-switch": "^1.1.1",
     "@radix-ui/react-tabs": "^1.1.1",
     "@radix-ui/react-toast": "^1.2.2",
     "axios": "^1.7.9",
@@ -36,6 +40,7 @@
     "react-icons": "^5.4.0",
     "react-router-dom": "^7.0.2",
     "react-toastify": "^10.0.6",
+    "recharts": "^2.14.1",
     "resize-observer-polyfill": "^1.5.1",
     "tailwind-merge": "^2.5.5",
     "tailwind-variants": "^0.3.0",

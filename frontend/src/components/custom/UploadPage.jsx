@@ -9,15 +9,14 @@ import { Button } from "../ui/button";
 export function UploadPage() {
   const [selectedPlatforms, setSelectedPlatforms] = React.useState([]);
   const [videoFile, setVideoFile] = React.useState(null);
-  const [imageFile, setImageFile] = React.useState(null);
+  const [imageFiles, setImageFiles] = React.useState([]);
   const [description, setDescription] = React.useState("");
 
   const handleFileChange = (event, type) => {
-    const selectedFile = event.target.files?.[0];
     if (type === "video") {
-      setVideoFile(selectedFile);
+      setVideoFile(event.target.files?.[0]);
     } else if (type === "image") {
-      setImageFile(selectedFile);
+      setImageFiles(Array.from(event.target.files));
     }
   };
 
@@ -32,7 +31,7 @@ export function UploadPage() {
   const handleSubmit = () => {
     const requestPayload = {
       video: videoFile,
-      image: imageFile,
+      images: imageFiles,
       description,
       platforms: selectedPlatforms,
     };
@@ -74,22 +73,28 @@ export function UploadPage() {
 
           <motion.div whileHover={{ scale: 1.02 }}>
             <Label htmlFor="image-input" className="text-white font-medium">
-              Upload Image
+              Upload Images
             </Label>
-            <div className="flex items-center gap-4 mt-2">
+            <div className="flex flex-col items-start gap-4 mt-2">
               <label
                 htmlFor="image-input"
                 className="cursor-pointer px-4 py-2 rounded-lg border border-white hover:border-gray-500 transition-colors"
               >
-                {imageFile ? imageFile.name : "Select Image"}
+                Select Images
               </label>
               <Input
                 id="image-input"
                 type="file"
                 accept="image/*"
+                multiple
                 className="hidden"
                 onChange={(e) => handleFileChange(e, "image")}
               />
+              {imageFiles.length > 0 && (
+                <div className="text-sm text-gray-300">
+                  Selected images: {imageFiles.map(file => file.name).join(", ")}
+                </div>
+              )}
             </div>
           </motion.div>
         </div>
