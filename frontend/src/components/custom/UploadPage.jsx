@@ -5,6 +5,7 @@ import { Input } from "../ui/input";
 import { Label } from "../ui/label";
 import { Textarea } from "../ui/textarea";
 import { Button } from "../ui/button";
+import axios from "axios";
 
 export function UploadPage() {
   const [selectedPlatforms, setSelectedPlatforms] = React.useState([]);
@@ -29,15 +30,78 @@ export function UploadPage() {
     );
   };
 
-  const handleSubmit = () => {
-    const requestPayload = {
-      video: videoFile,
-      image: imageFile,
-      description,
-      platforms: selectedPlatforms,
-    };
+  const uploadCloudinary = async(image) => {
+    const data = new FormData()
+    data.append("file", image)
+    data.append("upload_preset", "ethindia")
+    data.append("cloud_name","dwgdjgeor")
+    
+    const res=await fetch("https://api.cloudinary.com/v1_1/dwgdjgeor/video/upload",{
+    method:"post",
+    body: data
+    })
+    const resp= await res.json()
+    console.log(resp);
+    return resp.url;
+     }
 
-    console.log("Request Payload:", requestPayload);
+  async function callflaskapi(blobId, platform,bucketName="myBucket") {
+    const apiUrl = "http://127.0.0.1:5000/download_blob"; // Replace with your Flask server's URL
+  
+    try {
+      const response = await axios.post(
+        apiUrl,
+        {
+          blobid: blobId,
+          bucketname: bucketName,
+          platform:platform,
+          description:description,
+          selectedPlatforms:selectedPlatforms
+        },
+        {
+          headers: {
+            "Content-Type": "application/json",
+          },
+        }
+      );
+
+      console.log(response);
+
+
+    } catch (error) {
+      console.error("Error calling the API:", error.response?.data || error.message);
+    }
+  }
+
+  async function uploadFile(bucketName, file) {
+    const form = new FormData();
+    form.append("file", file);
+    const API_BASE_URL="http://localhost:8000"
+    try {
+      console.log("upload file")
+      const response = await axios.post(`${API_BASE_URL}/buckets/${bucketName}/files`, form, {
+        headers: {
+          "Content-Type": "multipart/form-data",
+        },
+      });
+      console.log("Upload successful:", response.data);
+
+      
+      return response.data.data.Name; // Return response data for further use
+    } catch (error) {
+      console.error("Error during file upload:", error.response ? error.response.data : error.message);
+      throw new Error("File upload failed");
+    }
+  }
+  
+  
+
+  const handleSubmit = async() => {
+
+    const video_link=await uploadCloudinary(videoFile);
+    const response=await callflaskapi(video_link,"cloudinary");
+    
+
   };
 
   return (
