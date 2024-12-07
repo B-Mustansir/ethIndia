@@ -1,6 +1,5 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { NavLink, useNavigate } from "react-router-dom";
 import { LayoutDashboard, PenTool, FileText, LogOut, Bot } from "lucide-react";
 
 export function Sidebar({ setActivePage }) {
