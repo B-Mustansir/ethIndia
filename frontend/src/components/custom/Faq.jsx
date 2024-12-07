@@ -64,12 +64,12 @@ const Faq = () => {
   return (
     <div className="bg-black text-white py-20 px-10">
       <motion.h2
-        className="text-4xl font-semibold text-center mb-10 text-gray-200"
+        className="text-6xl font-semibold text-center mb-10 text-gray-200"
         initial={{ opacity: 0, y: 50 }}
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8, ease: "easeOut" }}
       >
-        Frequently Asked Questions
+        FAQs
       </motion.h2>
       <motion.div
         className="space-y-10 max-w-4xl mx-auto"

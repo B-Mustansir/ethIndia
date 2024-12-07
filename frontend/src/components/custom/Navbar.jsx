@@ -1,21 +1,19 @@
-import React, { useRef, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import { motion, useMotionValueEvent, useScroll } from "framer-motion";
 import { Button } from "../../components/ui/button";
-import {
-  NavigationMenu,
-  NavigationMenuContent,
-  NavigationMenuItem,
-  NavigationMenuLink,
-  NavigationMenuList,
-  NavigationMenuTrigger,
-} from "../../components/ui/navigation-menu";
-
-import BlueCreateWalletButton from "./walletutils"; // Correct import
+import BlueCreateWalletButton from "./walletutils";
+import { useNavigate } from "react-router-dom";
 
 const Navbar = () => {
   const [isHidden, setisHidden] = useState(false);
+  const [isSignedIn, setIsSignedIn] = useState(null); // State to track sign-in status
   const { scrollY } = useScroll();
   const lastYRef = useRef(0);
+  const navigate = useNavigate(); // Hook for programmatic navigation
+
+  useEffect(() => {
+    setIsSignedIn(localStorage.getItem("wallet"));
+  }, []); // Dependency array to ensure this runs once on mount
 
   useMotionValueEvent(scrollY, "change", (y) => {
     const diff = y - lastYRef.current;
@@ -28,10 +26,21 @@ const Navbar = () => {
   // Handlers for wallet events
   const handleSuccess = (address) => {
     alert(`Wallet connected: ${address}`);
+    localStorage.setItem("wallet", address);
+    setIsSignedIn(true); // Update sign-in status on success
   };
 
   const handleError = (error) => {
     alert(`Error: ${error.message}`);
+  };
+
+  // Handle Dashboard Button Click
+  const handleDashboardClick = () => {
+    if (isSignedIn) {
+      navigate("/dashboard"); // Redirect to the dashboard route
+    } else {
+      alert("Please sign in first!");
+    }
   };
 
   return (
@@ -52,12 +61,13 @@ const Navbar = () => {
         transition={{ duration: 0.3 }}
         className="nav-list w-fit h-16 z-20 px-8 gap-3 list-none flex flex-row justify-center items-center fixed rounded-full border border-neutral-700 bg-gray-900 text-white dark:border-slate-200 dark:bg-slate-100 dark:text-black"
       >
-        <h1 className="font-LindedHill text-xl">PulseChain</h1> |
+        <h1 className="font-LindedHill text-lg">Mirror Sphere</h1> |
         <Button variant="ghost">Home</Button> |
         <Button variant="ghost">Features</Button> |
         <Button variant="ghost">Steps</Button> |
-        <BlueCreateWalletButton handleSuccess={handleSuccess} handleError={handleError} /> |
-        <Button variant="ghost">Contact</Button>
+        <Button variant="ghost" onClick={handleDashboardClick}>
+          {isSignedIn ? "Dashboard" : <BlueCreateWalletButton handleSuccess={handleSuccess} handleError={handleError} />}
+        </Button>
       </motion.div>
     </motion.nav>
   );

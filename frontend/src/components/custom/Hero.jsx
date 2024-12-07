@@ -1,7 +1,7 @@
 import Navbar from "./Navbar";
 import BorderButton from "../ui/BorderButton";
-import { Button } from "../ui/button";
 import { motion } from "framer-motion";
+import FillButton from "../ui/FillButton";
 
 export default function Hero() {
   const containerVariants = {
@@ -49,14 +49,14 @@ export default function Hero() {
           </motion.p>
 
           <motion.p
-            className="text-2xl sm:text-xl relative z-20 text-slate-100 font-thin"
+            className="text-2xl font-bold sm:text-xl relative z-20 text-slate-100"
             variants={childVariants}
           >
             Seamlessly manage multiple social platforms with AI-driven content creation and persona optimization.
           </motion.p>
 
           <motion.div variants={childVariants}>
-            <Button>Start Your Social AI Journey</Button>
+            <FillButton text="Start Your Social AI Journey →" />
           </motion.div>
         </motion.div>
       </div>

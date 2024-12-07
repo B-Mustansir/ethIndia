@@ -90,7 +90,7 @@ function Footer() {
               textStroke: "0px white",
             }}
           >
-            PulseChain
+            Mirror Sphere
           </h1>
         </div>
       </motion.div>

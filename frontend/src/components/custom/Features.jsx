@@ -9,8 +9,8 @@ function Features() {
     visible: {
       opacity: 1,
       transition: {
-        staggerChildren: 0.1, // Delay between each child
-        delayChildren: 0.5, // Add delay before staggering starts
+        staggerChildren: 0.1,
+        delayChildren: 0.2, // Add delay before staggering starts
       },
     },
   };
@@ -73,7 +73,7 @@ function Features() {
       <div className="flex flex-col justify-center items-center my-12 gap-16">
         {/* Feature Block 1 */}
         <motion.div
-          className="bg-green-300 w-[75rem] h-[32rem] rounded-xl flex flex-row-reverse shadow-lg"
+          className=" bg-purple-300 w-[75rem] h-[32rem] rounded-xl flex flex-row-reverse shadow-lg"
           variants={blockVariants}
           initial="hidden"
           whileInView="visible"
@@ -112,7 +112,7 @@ function Features() {
 
         {/* Feature Block 2 */}
         <motion.div
-          className="bg-purple-300 w-[75rem] h-[32rem] rounded-xl flex flex-row shadow-lg"
+          className=" bg-green-300 w-[75rem] h-[32rem] rounded-xl flex flex-row shadow-lg"
           variants={blockVariants}
           initial="hidden"
           whileInView="visible"
