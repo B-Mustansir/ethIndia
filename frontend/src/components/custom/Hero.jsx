@@ -35,14 +35,14 @@ export default function Hero() {
           </motion.div>
 
           <motion.p
-            className="text-7xl sm:text-7xl font-bold relative z-20 bg-clip-text text-transparent bg-gradient-to-b from-neutral-100 to-neutral-400 py-1"
+            className="text-9xl sm:text-9xl font-bold relative z-20 bg-clip-text text-transparent bg-gradient-to-b from-neutral-100 to-neutral-400 py-1"
             variants={childVariants}
           >
             <span className="text-blue-500">AI-Powered</span> Social Media Genius:
           </motion.p>
 
           <motion.p
-            className="text-7xl sm:text-7xl font-bold relative z-20 bg-clip-text text-transparent bg-gradient-to-b from-blue-300 to-blue-600 py-1"
+            className="text-8xl sm:text-8xl font-bold relative z-20 bg-clip-text text-transparent bg-gradient-to-b from-blue-300 to-blue-600 py-1"
             variants={childVariants}
           >
             Unleash Your <span className="text-purple-500">Digital Persona</span>

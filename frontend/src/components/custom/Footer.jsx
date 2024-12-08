@@ -1,6 +1,7 @@
 import React, { useRef } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 import { Instagram, Linkedin, Twitter } from "lucide-react";
+import Logo from "../../assets/logo.png";
 
 function Footer() {
   const container = useRef();
@@ -83,15 +84,7 @@ function Footer() {
 
         {/* Large Text */}
         <div className="bottom-0 transform pb-8">
-          <h1
-            className="text-9xl tracking-widest relative z-20 bg-clip-text text-transparent bg-gradient-to-b from-neutral-300 to-neutral-600 font-LindedHill"
-            style={{
-              WebkitTextStroke: "0px white",
-              textStroke: "0px white",
-            }}
-          >
-            Mirror Sphere
-          </h1>
+          <img src={Logo} alt="" />
         </div>
       </motion.div>
     </div>

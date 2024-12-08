@@ -62,7 +62,7 @@ const Faq = () => {
   };
 
   return (
-    <div className="bg-black text-white py-20 px-10">
+    <div className="bg-black text-white py-20 px-10" id="#faq">
       <motion.h2
         className="text-6xl font-semibold text-center mb-10 text-gray-200"
         initial={{ opacity: 0, y: 50 }}

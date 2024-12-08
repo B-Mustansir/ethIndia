@@ -14,7 +14,7 @@ export function Sidebar({ setActivePage }) {
 
   return (
     <motion.div
-      className="w-64 bg-black h-screen p-4 flex flex-col space-y-6 border-r border-gray-700"
+      className="w-fit  bg-slate-700 p-4 flex flex-col space-y-6 border-r border-gray-700 "
       initial={{ x: -100, opacity: 0 }}
       animate={{ x: 0, opacity: 1 }}
       transition={{ duration: 0.5 }}
@@ -33,7 +33,7 @@ export function Sidebar({ setActivePage }) {
                 alert("You have been signed out.");
                 setActivePage("dashboard"); // Redirect to dashboard on sign out
               }}
-              className="w-full flex items-center gap-4 p-3 rounded-lg text-sm font-medium transition text-gray-400 hover:text-white hover:bg-gray-800"
+              className="w-full flex items-center gap-4 p-3 rounded-lg text-sm font-medium transition text-gray-100 hover:text-white hover:bg-gray-800"
             >
               <item.icon className="h-5 w-5" />
               {item.name}
@@ -41,7 +41,7 @@ export function Sidebar({ setActivePage }) {
           ) : (
             <button
               onClick={() => setActivePage(item.action)}
-              className="w-full flex items-center gap-4 p-3 rounded-lg text-sm font-medium transition text-gray-400 hover:text-white hover:bg-gray-800"
+              className="w-full flex items-center gap-4 p-3 rounded-lg text-sm font-medium transition text-gray-100 hover:text-white hover:bg-gray-800"
             >
               <item.icon className="h-5 w-5" />
               {item.name}

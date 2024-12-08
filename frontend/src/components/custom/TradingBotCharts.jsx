@@ -86,7 +86,7 @@ export default function TradingBotCharts() {
     return (
       <Card
         key={coin.symbol}
-        className="overflow-hidden rounded-xl border-gray-800 bg-[#121212]"
+        className=" rounded-xl border-gray-800 bg-[#121212]"
       >
         <div className="grid grid-cols-[350px,1fr]">
           {/* Left Panel */}

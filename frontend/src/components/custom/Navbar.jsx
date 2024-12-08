@@ -3,6 +3,7 @@ import { motion, useMotionValueEvent, useScroll } from "framer-motion";
 import { Button } from "../../components/ui/button";
 import BlueCreateWalletButton from "./walletutils";
 import { useNavigate } from "react-router-dom";
+import Logo from "../../assets/logo.png";
 
 const Navbar = () => {
   const [isHidden, setisHidden] = useState(false);
@@ -61,13 +62,14 @@ const Navbar = () => {
         transition={{ duration: 0.3 }}
         className="nav-list w-fit h-16 z-[100] px-8 gap-3 list-none flex flex-row justify-center items-center fixed rounded-full border border-neutral-700 bg-black text-white dark:border-slate-200 dark:bg-slate-100 dark:text-black"
       >
-        <h1 className="font-LindedHill text-lg">Mirror Sphere</h1> |
+        <img src={Logo} alt="" className=" h-[4rem]"/> |
         <Button variant="ghost"><a href="#hero">Home</a></Button> |
         <Button variant="ghost"><a href="#features">Features</a></Button> |
-        <Button variant="ghost">Steps</Button> |
+        <Button variant="ghost"><a href="#faq">FAQs</a></Button> |
         <Button variant="ghost" onClick={handleDashboardClick}>
           {isSignedIn ? "Dashboard" : <BlueCreateWalletButton handleSuccess={handleSuccess} handleError={handleError} />}
-        </Button>
+        </Button> |
+        <Button variant="ghost"><a href="#faq">Contact</a></Button> 
       </motion.div>
     </motion.nav>
   );
