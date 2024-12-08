@@ -2,6 +2,8 @@ frontend/node_modules/
 # Logs
 logs
 *.log
+*.env
+*.json
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
