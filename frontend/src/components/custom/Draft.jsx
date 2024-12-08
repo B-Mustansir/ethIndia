@@ -294,7 +294,9 @@ export function Draft() {
                     </div>
                   </div>
                   <div className="border border-white rounded-xl p-6 bg-black">
-                    <div className="aspect-video bg-white rounded-lg mb-4"></div>
+                    <div className="aspect-video bg-white rounded-lg mb-4">
+                      <video src=""></video>
+                    </div>
                     <h3 className="font-bold text-white text-lg mb-2">{renderStyledText(youtubeTitle)}</h3>
                     <div className="flex items-start gap-4">
                       <div className="w-10 h-10 rounded-full bg-white flex items-center justify-center text-black font-bold text-sm">

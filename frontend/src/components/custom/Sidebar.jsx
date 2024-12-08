@@ -1,9 +1,10 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { LayoutDashboard, PenTool, FileText, LogOut, Bot } from "lucide-react";
+import { LayoutDashboard, PenTool, FileText, LogOut, Bot, CircleUser } from "lucide-react";
 
 export function Sidebar({ setActivePage }) {
   const sidebarItems = [
+    {name:'Mirror Sphere', icon:CircleUser, action:'persona-craft'},
     { name: "Dashboard", icon: LayoutDashboard, action: "dashboard" },
     { name: "Content Creation", icon: PenTool, action: "content-creation" },
     { name: "Content Draft", icon: FileText, action: "content-draft" },

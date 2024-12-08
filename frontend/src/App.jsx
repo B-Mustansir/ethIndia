@@ -1,27 +1,23 @@
 import React from "react";
-import { ReactLenis, useLenis } from "lenis/react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Dashboard from "./pages/Dashboard";
 import { UploadPage } from "./components/custom/UploadPage";
 import { Draft } from "./components/custom/Draft";
 import Landing from "./pages/Landing";
-import TradingBotPage from "./components/custom/TradingBotPage"; // Transaction component
+import { TradingBotList } from "./components/custom/TradingBotList";
+import TradingBotCharts from "./components/custom/TradingBotCharts";
 
 export default function App() {
-  const lenis = useLenis(({ scroll }) => {});
-
   return (
-    <ReactLenis root>
-      <Router>
-        <Routes>
-          <Route path="/" element={<Landing />} />
-          <Route path="/dashboard" element={<Dashboard />} />
-          <Route path="/content-creation" element={<UploadPage />} />
-          <Route path="/content-draft" element={<Draft />} />
-          <Route path="/trading-bot" element={<TradingBotPage />} />{" "}
-          {/* New Route */}
-        </Routes>
-      </Router>
-    </ReactLenis>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Landing />} />
+        <Route path="/dashboard" element={<Dashboard />} />
+        <Route path="/content-creation" element={<UploadPage />} />
+        <Route path="/content-draft" element={<Draft />} />
+        <Route path="/trading-bot" element={<TradingBotList />} />
+        <Route path="/bot-charts" element={<TradingBotCharts />} />
+      </Routes>
+    </BrowserRouter>
   );
 }

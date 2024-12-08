@@ -59,11 +59,11 @@ const Navbar = () => {
           visible: { y: "0%" },
         }}
         transition={{ duration: 0.3 }}
-        className="nav-list w-fit h-16 z-20 px-8 gap-3 list-none flex flex-row justify-center items-center fixed rounded-full border border-neutral-700 bg-black text-white dark:border-slate-200 dark:bg-slate-100 dark:text-black"
+        className="nav-list w-fit h-16 z-[100] px-8 gap-3 list-none flex flex-row justify-center items-center fixed rounded-full border border-neutral-700 bg-black text-white dark:border-slate-200 dark:bg-slate-100 dark:text-black"
       >
         <h1 className="font-LindedHill text-lg">Mirror Sphere</h1> |
-        <Button variant="ghost">Home</Button> |
-        <Button variant="ghost">Features</Button> |
+        <Button variant="ghost"><a href="#hero">Home</a></Button> |
+        <Button variant="ghost"><a href="#features">Features</a></Button> |
         <Button variant="ghost">Steps</Button> |
         <Button variant="ghost" onClick={handleDashboardClick}>
           {isSignedIn ? "Dashboard" : <BlueCreateWalletButton handleSuccess={handleSuccess} handleError={handleError} />}

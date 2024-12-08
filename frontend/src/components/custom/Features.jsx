@@ -48,6 +48,7 @@ function Features() {
   return (
     <div
       className="flex flex-col justify-center items-center border-t rounded-t-full relative"
+      id="features"
       style={{
         borderTop: "1px solid #6C63FF",
         boxShadow: "0 0 50px 20px rgba(108, 99, 255, 0.5)",
