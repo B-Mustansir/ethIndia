@@ -1,0 +1,2858 @@
+Title: Solana Ecosystem Call ft. Jito, Kamino Finance, Drift, Genopets, and Udi Wertheimer (Jan 24)
+Description: We brought the best and brightest builders on Solana together for another edition of the Ecosystem Call! 
+
+In the span of 60 minutes, you'll get up to speed on the latest events, projects, and alpha in the Solana ecosystem. There's no better or faster way to get up to speed with everything Solana.
+
+Register for the next Solana Ecosystem Call: https://lu.ma/ecosystem-call
+
+Sign up for Superteam Earn, the one place for all Solana-based earning opportunities: https://earn.superteam.fun/
+
+
+Wins of the Month:
+1. Solana December DEX volume reached $28b: https://twitter.com/DegenerateNews/status/1741625883943739615
+2. Stablecoin Transfer Volume on Solana crossed $120b: https://twitter.com/SolanaFloor/status/1744617745654681829
+3. Tensor passed 10m SOL in all-time volume: https://twitter.com/0xrwu/status/1740112655254475233
+4. 100k+ Metamask users have been onboarded through the Solflare snap: https://twitter.com/solflare_wallet/status/1736081909975859566
+5. Hivemapper crosses 100m total km mapped: https://twitter.com/Hivemapper/status/1738981200814125172
+6. The Saga sold out!: https://twitter.com/solanamobile/status/1735835498025832651
+7. Introducing: Droplets 2.0: https://twitter.com/drip_haus/status/1730740292603838609
+8. Introducing - Solana's ZK Anchor: https://twitter.com/LightProtocol/status/1735350322627772596
+9. Flash.trade shipped to mainnet!: https://twitter.com/FlashTrade_/status/1741496857715441913
+10. Jupiter kicks off their 'Start' Initiative: https://twitter.com/weremeow/status/1730056194474320011
+11. Bonkmas was a hit!: https://twitter.com/bonk_inu/status/1743368311612874783
+12. Jito Stakenet (https://github.com/jito-foundation/stakenet) and the Backpack Extension (https://github.com/coral-xyz/backpack) are now open-sourced!
+13. Paxos is expanding to Solana: https://twitter.com/solana/status/1738204879120957945
+14. The era of RWA on Solana is here!
+Circle’s EURC Stablecoin is now available on Solana: https://twitter.com/solana/status/1736750405084909769
+Ondo Finance expanded its U.S treasury-backed tokens to Solana: https://twitter.com/OndoFinance/status/1737164045625512045
+15. Introducing - Stablebonds by Etherfuse: https://twitter.com/etherfuse/status/1743023088369840162
+16. Superteens is out!: https://www.youtube.com/watch?v=dxqHtNglAJo
+17. Dean's List DAO launched the Decentragrants Program: https://twitter.com/deanslistDAO/status/1737560972896731249
+18. Solana Creators shined at Art Basel Miami: https://twitter.com/solana/status/1733567218880041346
+19. Bem vindo ao Superteam Brasil!: https://twitter.com/SuperteamBR
+
+------------------
+
+TIMESTAMPS:
+03:46 - Wins of the Month
+12:00 - The State of Solana (December 2023)
+14:22 - Special Guest - Udi Wertheimer
+24:03 - We D̶o̶n̶'t̶ Do That Here
+26:26 - Alpha Drops
+37:42 - Upcoming Solana Community Events (https://solana.com/events)
+56:50 - Earning Opportunities (Jobs & $750+ Bounties)
+58:27 - Join us IRL (https://app.getriver.io/superteam)
+58:55 - Thank you for coming!
+
+------------------
+
+DISCLAIMER:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: blockchain, web3
+
+Title: Solana Ecosystem Call ft. Mert Mumtaz, Mango Max, BONK, and MonkeDAO (Dec 2023)
+Description: We brought the best and brightest builders on Solana together for another edition of the Ecosystem Call! 
+
+In the span of 60 minutes, you'll get up to speed on the latest events, projects, and alpha in the Solana ecosystem. There's no better or faster way to get up to speed with everything Solana.
+
+Register for the next Solana Ecosystem Call: https://lu.ma/ecosystem-call
+
+Sign up for Superteam Earn, the one place for all Solana-based earning opportunities: https://earn.superteam.fun/
+
+
+Wins of the Month:
+1. Render Network successfully upgraded to Solana: https://medium.com/render-token/render-network-completes-successful-upgrade-to-solana-3d7947b60aed
+2. The Boba Guys rolled out their Passport Loyalty Program: https://twitter.com/solana/status/1728131746850566205
+3. The Code codebase is now open-sourced!: https://twitter.com/getcode/status/1729512450532274424
+4. Inscriptions - now live on Solana: https://twitter.com/hamster_labs/status/1724802392980680844
+5. Solana DeFi 2.0 is happening!: https://twitter.com/StepDataInsight/status/1727288670204657950
+6. The Backpack Exchange Launched!:https://twitter.com/armaniferrante/status/1728663937003172120
+7. io.net is among the fastest growing decentralized GPU networks:https://twitter.com/ionet_official/status/1727105478172217712
+8. Phantom shipped an in-app cross-chain swapper: https://twitter.com/phantom/status/1726699445176410116
+9. Parcl v3 is live!: https://twitter.com/Parcl/status/1724238439179022426
+10. Magic Eden shipped an in-app wallet: https://twitter.com/MagicEden/status/1729154343260078167
+11. Introducing - the brand new Quantum Explorer: https://twitter.com/solanafm/status/1731684413824471539
+12. Helius just made our lives 10x easier: https://twitter.com/heliuslabs/status/1727182891191587033
+13. Breakpoint was a huge success!: https://solana.com/news/breakpoint-2023-news-announcements-recap
+14. Solana Allstars Nigeria crossed $150k in Community GDP: https://twitter.com/SolanaAllstars/status/1732098769766731804
+15. mtnDAO is so back!: https://twitter.com/mtndao/status/1729598453821677762
+
+------------------
+
+TIMESTAMPS:
+01:18 - Wins of the Month
+11:43 - The State of Solana
+12:32 - The State of Solana DeFi with Mango Max
+18:11 - Special Guest (Mert Mumtaz from Helius Labs)
+24:32 - The Soylana Guessing Game
+29:18 - Alpha Drops
+31:07 - Upcoming Solana Community Events
+37:39 - Earning Opportunities (Jobs & $750+ Bounties)
+42:43 - Thank you for coming!
+
+------------------
+
+DISCLAIMER:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: blockchain, web3
+
+Title: Solana Ecosystem Call ft. @GoodTimeFilms, Metamask, and Solflare (Oct 23)
+Description: We brought the best and brightest builders on Solana together for another edition of the Ecosystem Call! 
+
+In the span of 60 minutes, you'll get up to speed on the latest events, projects, and alpha in the Solana ecosystem. There's no better or faster way to get up to speed with everything Solana.
+
+Register for the next Solana Ecosystem Call: https://lu.ma/ecosystem-call
+
+Links to resources shared:
+- FREE Hackathon Pitch Deck Template: https://www.figma.com/file/AzsGHKGfoxCEok82TU5SUO/Superteam-Pitchdeck-Community-File?type=design&mode=design
+- Superteam Earn, the one place for all Solana-based earning opportunities: https://earn.superteam.fun/
+- Sol Jakey's Silent Library video: https://x.com/SolJakey/status/1709929408675680481?s=20
+- Sign up for all upcoming events - https://solana.com/events
+
+Wins of the Month:
+1. Metamask adds support for Solana with Solflare: https://twitter.com/solflare_wallet/status/1701611708127862978
+2. Introducing Eclipse: Eth’s fastest L2 powered by the SVM: https://twitter.com/EclipseFND/status/1704178668543824309
+3. The Solana Labs Validators v1.16 update rolled out (and it’s fast!): https://twitter.com/oyacaro/status/1707368909374902632
+4. Helio to power Crypto Payments for WooCommerce: https://twitter.com/helio_pay/status/1700156821858652541
+5. Solana shines with 27 weeks of inflow in 2023: https://twitter.com/SolBulletin/status/1708915630794285429
+6. Hivemapper crossed 5m unique km mapped: https://twitter.com/Hivemapper/status/1701948917905285240
+7. Over 50m cNFTs have been minted on Metaplex: https://twitter.com/StepDataInsight/status/1707062553275424980
+8. Star Atlas clocking incredible numbers with their latest, Sage: https://twitter.com/staratlas/status/1707495596393906258
+9. Squads v4 is here!: https://twitter.com/SquadsProtocol/status/1708844754451206232
+10. TipLink launched gift cards in 50+ countries: https://twitter.com/TipLinkOfficial/status/1701990561862037759
+11. Jupiter shipped Bridge Comparator: https://twitter.com/JupiterExchange/status/1704380715402690679
+12. India Hacker Houses were a massive success: https://twitter.com/SuperteamDAO/status/1706307204284928318
+13. Solana Allstars continues to crush in Turkey and Nigeria: https://twitter.com/SolanaAllstars/status/1708041994914697507
+14. The Solana Retroactive Public Goods Funding (RetroPGF) Round 1 is live: https://twitter.com/openblocklabs/status/1708967605569204650
+15. 5,000+ builders competing at Solana Hyperdrive: https://twitter.com/solana/status/1706673443410972704
+16. Build Stations are live all around the world: https://hackathon.superteam.fun/build-with-us
+
+------------------
+
+TIMESTAMPS:
+0:00 - GM
+02:09 - Wins of the month
+13:46 - Free Hackathon Pitch Deck Template
+14:53 - State of Solana
+16:26 - Special Guest: Ellie Platis (Head of Events, Solana Foundation)
+23:27 - The Soylana Guessing Game
+28:00 - Alpha Drops
+38:23 - Upcoming Events
+47:26 - Work to Earn
+49:20 - World Premier: @GoodTimeFilms's Silent Library video
+53:40 - Thanks for joining
+
+------------------
+
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+
+------------------
+
+DISCLAIMER:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: blockchain, web3
+
+Title: Solana Ecosystem Call ft. Code, 6th Man Ventures, and Maple (Sep 23)
+Description: We're bringing the best and brightest builders on Solana together for another edition of the Ecosystem Community Call!
+
+​Whether you're a builder, an investor, or a user, this is an event not to be missed. In the span of 60 minutes, you'll get up to speed on the latest events, projects, and alpha in the Solana ecosystem. There's no better or faster way to get up to speed with everything Solana.
+
+Wins of the Month:
+1. Visa Expands Stablecoin Settlement Pilot to Solana: https://twitter.com/solana/status/1699032831643533556
+2. Maker is considering the Solana codebase for NewChain: https://twitter.com/RuneKek/status/1697623700013822244
+3. Solana Pay has integrated with Shopify: https://twitter.com/solana/status/1694336131599393186
+4. Maple Finance has returned to Solana: https://maple.finance/news/maple-brings-cash-management-solution-to-solana/
+5. A tokenized version of Bitcoin is launching on Solana: https://twitter.com/TheTNetwork/status/1691429645248307200
+6. In August, over 15 million compressed NFTs were minted on Solana: https://twitter.com/fknmarqu/status/1698008090585473428
+7. 1m+ SOL  staked on the new Marinade Native: https://twitter.com/MarinadeFinance/status/1694068385951236227
+8. Phantom introduces Sign-in with Solana: https://twitter.com/phantom/status/1693759783512543368
+9. Membrane Finance brings the first Euro stablecoin to Solana: https://twitter.com/EUROemoney/status/1694266993090670750
+10. Elusiv ships Private Token Swaps: https://twitter.com/elusivprivacy/status/1693986627469865097
+11. Kamino Finance launches Creator Vaults: https://twitter.com/Kamino_Finance/status/1694720744725545371
+12. Solend Protocol open-sourced Brick: https://twitter.com/solendprotocol/status/1692770546335854911
+13. Solarplex v2 is live!: https://twitter.com/solarplex_xyz/status/1692725420364587190
+14. OPOS came to a close with 150+ submissions: https://twitter.com/LamportDAO/status/1694159393795756177
+15. Hyperdrive has kicked off!: https://twitter.com/solana/status/1699426581159067987
+
+------------------
+
+TIMESTAMPS:
+0:00 - GM
+03:47 - Wins of the month
+13:17 - Hyperdrive Ad World Premier Part-1
+17:49 - State of Solana
+18:40 - Special Guests: Mike & Carl from 6th Man Ventures
+33:55 - Breakpoint Ticket giveaway
+34:28 - Alpha Drops
+58:24 - Upcoming Events
+59:32 - Demo of the Day
+01:08:40 - Work to Earn
+01:09:22 - Hyperdrive Ad World Premier Part-2
+01:11:39 - Thanks for joining
+
+------------------
+
+CHECK OUT MY OTHER CHANNELS
+• Tanmay Bhat: https://www.youtube.com/c/TanmayBhatYouTube
+• Honestly by Tanmay Bhat: https://www.youtube.com/@HonestlybyTanmayBhat
+• Bot Army Clips: https://www.youtube.com/@BotArmyClips
+• Honestly Clips: https://www.youtube.com/@HonestlyClips
+
+------------------
+
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+
+------------------
+
+DISCLAIMER:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: blockchain, web3
+
+Title: Solana Ecosystem Call ft. Anatoly Yakovenko (Aug 23)
+Description: We're bringing the best and brightest builders on Solana together for another edition of the Ecosystem Community Call!
+
+​Whether you're a builder, an investor, or a user, this is an event not to be missed. In the span of 60 minutes, you'll get up to speed on the latest events, projects, and alpha in the Solana ecosystem. There's no better or faster way to get up to speed with everything Solana.
+
+Wins of the Month:
+1. Matrica powered Web3 ticketing at Tomorrowland: https://twitter.com/MatricaLabs/status/1683518655336783875
+2. Tensor crossed 5m SOL all-time volume: https://twitter.com/tensor_hq/status/1679870592194088961
+3. Marginfi crossed $20m in Global TVL: https://twitter.com/macbrennan/status/1684953858915651584
+4. Introducing Solang: https://twitter.com/solana/status/1681654377059319808
+5. Layer3 is now live on Solana: https://twitter.com/layer3xyz/status/1678435418151219200?s=20
+6. Meteora is now supporting Dynamic LST Pools: https://twitter.com/MeteoraAG/status/1684975522605064193
+7. Introducing Sig: https://twitter.com/Syndica_io/status/1682045072630480898
+8. Drift Liquidity Providers, now live: https://twitter.com/DriftProtocol/status/1684604655135752200
+9. Ellipsis Labs shipped Verified Builds: https://twitter.com/ellipsis_labs/status/1684596690760749056
+10. Code Wallet is now Live: https://twitter.com/getcode/status/1682469627182436352
+11. Credix unveils a fully-insured USDC pool: https://twitter.com/Credix_finance/status/1684191586366918656
+12. PlayGG was a hit: https://twitter.com/solana/status/1682095870769090562
+13. 22 games competing at Speedrun: https://twitter.com/_cubik/status/1686813279488823296
+14. The OPOS hackathon has kicked off: https://twitter.com/0xMert_/status/1686462274729541637
+15. GM from Superteam Niigeria, UAE, and Israel: https://twitter.com/SuperteamNG, https://twitter.com/SuperteamAE, https://twitter.com/SuperteamIL
+
+------------------
+
+TIMESTAMPS:
+0:00 - GM
+02:35 - Wins of the month
+12:00 - The State of Solana
+21:19 - Special guest: Anatoly Yakovenko
+34:04 - OPOS
+41:53 - Twitter Raid
+42:19 - Alpha Drops
+57:57 - Earning Opportunities
+59:13 - Thanks for Joining
+
+------------------
+
+CHECK OUT MY OTHER CHANNELS
+• Tanmay Bhat: https://www.youtube.com/c/TanmayBhatYouTube
+• Honestly by Tanmay Bhat: https://www.youtube.com/@HonestlybyTanmayBhat
+• Bot Army Clips: https://www.youtube.com/@BotArmyClips
+• Honestly Clips: https://www.youtube.com/@HonestlyClips
+
+------------------
+
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+
+------------------
+
+DISCLAIMER:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: blockchain, web3
+
+Title: Solana Ecosystem Call ft. Raj Gokal & Balaji Srinivasan (July 23)
+Description: We're bringing the best and brightest builders on Solana together for another edition of the Ecosystem Community Call!
+
+​Whether you're a builder, an investor, or a user, this is an event not to be missed. In the span of 60 minutes, you'll get up to speed on the latest events, projects, and alpha in the Solana ecosystem. There's no better or faster way to get up to speed with everything Solana.
+
+Wins of the Month:
+1. Squads crosses $700m in total transaction volume: https://twitter.com/SimkinStepan/status/1673415289495515147
+2. Phoenix crosses $100m in volume since inception: https://twitter.com/jarxiao/status/1675959517626990592
+3. NFT activity on Solana soared in May-June: https://twitter.com/MessariCrypto/status/1669948010506362881
+4. Faceless, the largest generative PFP collection ever: https://twitter.com/drip_haus/status/1666510271496732674
+5. The Elusiv SDK has shipped to mainnet: https://twitter.com/elusivprivacy/status/1664632553318359040
+6. Ironforge launches!: https://twitter.com/IronforgeCloud/status/1667215968571932690
+7. Subdomains are live in Bonfida: https://twitter.com/bonfida/status/1673704311694532608
+8. Drift ships super stake sol: https://twitter.com/superstakesol/status/1673710948018733057
+9. Presenting… The next-gen NFT launchpad: https://twitter.com/metaplex/status/1666139054088257553
+10. Solana RPCs  just got a whole lot better: https://twitter.com/heliuslabs/status/1674540913895284736
+11. SMB Barrels do $30,000,000+ in volume during their public raffle: https://twitter.com/SolanaMBS/status/1674929417708093443
+12. The Solana NFT showdown has concluded: https://twitter.com/solana/status/1674781097153163267
+13. Solana's first-ever community run Game Jam is on!: https://twitter.com/magicblock/status/1673368869279350794
+14. Cubik's pilot QF round crushes!: https://twitter.com/_cubik/status/1671990397420335105
+15. Superteam crosses $2m global GDP: https://earnings.superteam.fun
+
+------------------
+
+TIMESTAMPS:
+0:00 - GM
+04:00 - Wins of the month
+14:05 - The State of Solana
+23:00 - Special guest: Raj Gokal
+35:21 - Twitter Raid
+36:54 - Special guest: Balaji Srinivasan
+43:16 - Alpha Drops
+1:00:52 - Upcoming Airdrops
+1:02:39 - Earning Opportunities
+1:04:29 - Thanks for Joining
+
+------------------
+
+CHECK OUT MY OTHER CHANNELS
+• Tanmay Bhat: https://www.youtube.com/c/TanmayBhatYouTube
+• Honestly by Tanmay Bhat: https://www.youtube.com/@HonestlybyTanmayBhat
+• Bot Army Clips: https://www.youtube.com/@BotArmyClips
+• Honestly Clips: https://www.youtube.com/@HonestlyClips
+
+------------------
+
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+
+------------------
+
+DISCLAIMER:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: blockchain, web3
+
+Title: Solana Ecosystem Call ft. Dialect, Hivemapper, DAA, and Google (June 23)
+Description: We're bringing the best and brightest builders on Solana together for another edition of the Ecosystem Community Call!
+
+​Whether you're a builder, an investor, or a user, this is an event not to be missed. In the span of 60 minutes, you'll get up to speed on the latest events, projects, and alpha in the Solana ecosystem. There's no better or faster way to get up to speed with everything Solana.
+
+Wins of the Month:
+1. 6,650,000 new wallets in May: https://www.theblock.co/data/on-chain-metrics/solana/number-of-active-addresses-on-the-solana-network-daily-7dma
+2. Trading activity is returning, quickly: https://twitter.com/Kamino_Finance/status/1664007088182542336
+3. Openbook crosses $500m in total trading volume: https://twitter.com/openbookdex/status/1663523466081910785
+4. Metaplex lowers their protocol fees in response to community concerns: https://twitter.com/metaplex/status/1661763752314961920
+5. Magic Eden has open-sourced its marketplace contract: https://twitter.com/MagicEden/status/1662199147577876481
+6. Breakpoint tickets are live: https://twitter.com/SolanaConf/status/1658472991649579008
+7. Token-2022 is here (but risky!): https://twitter.com/BonkEarn/status/1662481195064541189
+8. Solana labs ships a ChatGPT plug-in: https://github.com/solana-labs/chatgpt-plugin
+9. Light Protocol V3 has shipped to testnet: https://twitter.com/LightProtocol/status/1659606819872948247
+10. Firedancer reaches a new milestone - fd_quic: https://twitter.com/jump_firedancer/status/1654124396062158850
+11. ANS domains - now live in Solflare and Phantom: https://twitter.com/AllDomains_/status/1661028089328173057
+12. Phantom ships Sign-in with Solana: https://twitter.com/0xAnvit/status/1661745360577105924
+13. Ottr ships Bank Connect: https://twitter.com/ottrfinance/status/1661442012967743488
+14. Drip Haus continues to crush: https://twitter.com/drip_haus/status/1661236888320241665
+15. The Vietnam Creator DAO has launched: https://twitter.com/vncreatordao/status/1661288537613008898
+16. CandyPay is powering tax payments in crypto through Prospera Global: https://twitter.com/candypayfun/status/1659491776120643584
+
+------------------
+
+TIMESTAMPS:
+0:00 - GM
+01:09 - Wins of the month
+11:23 - State of Solana
+18:00 - Special Guest: Waka Itagaki Toyohara-San
+25:24 - Twitter Raid
+27:32 - Alpha Drops
+57:52 - Work to Earn
+59:55 - Thanks for joining
+
+------------------
+
+CHECK OUT MY OTHER CHANNELS
+• Tanmay Bhat: https://www.youtube.com/c/TanmayBhatYouTube
+• Honestly by Tanmay Bhat: https://www.youtube.com/@HonestlybyTanmayBhat
+• Bot Army Clips: https://www.youtube.com/@BotArmyClips
+• Honestly Clips: https://www.youtube.com/@HonestlyClips
+
+------------------
+
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+
+------------------
+
+DISCLAIMER:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: blockchain, web3
+
+Title: Solana Ecosystem Call ft. Backpack, Tensor, SMS, Underdog, & Star Atlas (May 23)
+Description: We're bringing the best and brightest builders on Solana together for another edition of the Ecosystem Community Call!
+
+​Whether you're a builder, an investor, or a user, this is an event not to be missed. In the span of 60 minutes, you'll get up to speed on the latest events, projects, and alpha in the Solana ecosystem. There's no better or faster way to get up to speed with everything Solana.
+
+Wins of the Month:
+1. Saga has launched: https://twitter.com/solanamobile/status/1646580454768910344
+2. DRiP mints their 1 millionth Solana NFT: https://twitter.com/drip_haus/status/1646245229765304322
+3. Helium’s migration to Solana is now complete: https://twitter.com/helium/status/1648725076571766786
+4. Hivemapper maps 2m+ unique kilometers: https://twitter.com/Hivemapper/status/1651992626776911873
+5. The Mad Lads  break the internet (literally): https://twitter.com/MadLadsNFT/status/1649584892848504833
+6. Nas Creator Summit was a hit: https://twitter.com/nasdaily/status/1653434415811313667
+7. Solana 🤝 Mastercard: https://twitter.com/SolanaFndn/status/1652005359219798017
+8. Brave 🤝 SNS: https://twitter.com/snsdids/status/1645836720703946752
+9. Boba Guys is building its on-chain loyalty program on Solana: https://twitter.com/SolanaFndn/status/1646953326003605514
+10. Star Atlas Launches Escape Velocity: https://twitter.com/staratlas/status/1651429744498335746
+11. Marginfi ships Omni: https://twitter.com/marginfi/status/1648316203092574210
+12. Jito-Solana hits 100M staked SOL: https://twitter.com/buffalu__/status/1651980512016121856
+13. Dialect mints over 600k stickers in a single month: https://twitter.com/saydialect/status/1651673139875831809
+14. Step Finance launches StepDAO and Solana Allstars: https://twitter.com/StepFinance_/status/1646564107745624067
+15. Superteam Pizza Fund launches: https://superteam.fun/instagrants/pizza-fund
+
+Bounties:
+1. International Stable Currency Deep Dive Bounty & Thread: https://earn.superteam.fun/listings/bounties/international-stable-currency-deep-dive-bounty-thread-3/
+2. Map Out the Wormhole Ecosystem in India: https://earn.superteam.fun/listings/bounties/map-out-the-wormhole-ecosystem-in-india-3
+3. Make a Comic Strip on NFTs: https://earn.superteam.fun/listings/bounties/make-a-comic-strip-on-nfts-3/
+
+Jobs:
+1. Founding Engineer at Sphere Labs (https://spherepay.co/): https://jobs.solana.com/companies/sphere-labs/jobs/24784944-founding-engineer-fullstack-backend#content
+2. Founding Engineer at Tensor (https://www.tensor.trade/): https://wellfound.com/company/tensor-labs-2/jobs/2629186-founding-software-engineer-full-stack
+3. Senior Backend Engineer at Ellipsis Labs (https://ellipsislabs.xyz/): https://jobs.ashbyhq.com/ellipsislabs/a6322c32-9142-4146-9429-bcf5cb52b3b7
+4. Solana Creator  & Community Founder Grants: https://superteam.fun/instagrants/community-founders-fund
+
+Superteam Earn: https://superteam.fun/
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+------------------
+
+TIMESTAMPS:
+0:00 - GM
+0:40 - The Speech
+03:22 - Wins of The Month
+11:43 - State Of Solana
+21:25 - GM Armani
+21:48 - Thread of The Month
+29:57 - Alpha Drops
+51:41 - Work To Earn
+57:39 - Thanks for joining
+------------------
+
+CHECK OUT MY OTHER CHANNELS
+• Tanmay Bhat: https://www.youtube.com/c/TanmayBhatYouTube
+• Honestly by Tanmay Bhat: https://www.youtube.com/@HonestlybyTanmayBhat
+• Bot Army Clips: https://www.youtube.com/@BotArmyClips
+• Honestly Clips: https://www.youtube.com/@HonestlyClips
+
+------------------
+
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+
+------------------
+
+DISCLAIMER:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: blockchain, web3
+
+Title: Solana Ecosystem Call ft. Nuseir Yassin, Jito, DRiP, Wormhole, Elusive, and Backpack (Apr 23)
+Description: We're bringing the best and brightest builders on Solana together for another edition of the Ecosystem Community Call!
+
+​Whether you're a builder, an investor, or a user, this is an event not to be missed. In the span of 60 minutes, you'll get up to speed on the latest events, projects, and alpha in the Solana ecosystem. There's no better or faster way to get up to speed with everything Solana.
+
+Checkout Wormhole xGrant: https://earn.superteam.fun/grants/recjn6fsULZJITniq
+
+------------------
+
+Wins of the Month:
+1. Grizzlython has concluded: https://twitter.com/solana/status/1636824367647604753
+2. Solana Crossroads was a hit: https://twitter.com/SolanaCrossroad/status/1632781033828384781
+3. Vietnam Hacker House was a blast: https://twitter.com/hackerhouses/status/1637013382657191938
+4. DEX Activity grows massively: https://twitter.com/StepDataInsight/status/1643667314586288148
+5. Hivemapper maps 1M+ unique kilometers: https://twitter.com/Hivemapper/status/1639059057284878337
+6. Render votes on coming to Solana: https://twitter.com/RenderToken/status/1643690082153422867
+7. Homebase sells out first tokenized home on Solana: https://twitter.com/HomebaseDAO/status/1640819894127034368
+8. Compressed NFTs live in Solflare: https://twitter.com/solflare_wallet/status/1641511680814243854
+9. Solana Mobile Stack (SMS) officially live in the Solana Unity SDK: https://twitter.com/magicblock/status/1638319178426851331
+10. Gum ships Session Keys: https://twitter.com/gumisfunn/status/1642898237395972097
+11. Crossmint announces Compression APIs: https://twitter.com/crossmint/status/1636772626113740817
+12. Jupiter V2 has shipped: https://twitter.com/JupiterExchange/status/1640745090762121223
+13. Presenting, Switchboard V3: https://twitter.com/switchboardxyz/status/1631025358379323392
+14. Ultimate Wallet - now live on the Play Store: https://twitter.com/UltimateApp/status/1638182882538844165
+15. Decentralized RPC infra are coming online: https://twitter.com/extrnode/status/1633880417949614080 // https://twitter.com/tinydancerio/status/1635730669715304450
+16. Exchange.art launches Code Canvas: https://twitter.com/exchgart/status/1633542816943988737
+
+------------------
+Check out Superteam Earn: https://earn.superteam.fun/
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+
+TIMESTAMPS:
+0:00 - Intro
+0:27 - The Speech
+02:45 - Wins of the Month
+11:01 - State of Solana
+24:50 - Special guest: NAS
+30:48 - Twitter Raid
+32:36 - Alpha Drops
+57:11 - Work to Earn
+59:37 - Thanks for joining
+
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+DISCLAIMER:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal, or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: blockchain, web3
+
+Title: Solana Ecosystem Call ft. Squads, Coinflow, Hello Moon, TipLink, Ottr, & Dean's List (Mar 23)
+Description: We're bringing the best and brightest builders on Solana together for another edition of the Ecosystem Community Call!
+
+​Whether you're a builder, an investor, or a user, this is an event not to be missed. In the span of 60 minutes, you'll get up to speed on the latest events, projects, and alpha in the Solana ecosystem. There's no better or faster way to get up to speed with everything Solana.
+
+Solana Grizzlython: https://solana.com/grizzlython
+
+------------------
+
+Wins of the Month
+1. 7,000+ builders competing at Grizzlython (now 10,000+): https://twitter.com/mattytay/status/1631681473764810755
+2. Melbourne Hacker House: https://twitter.com/hackerhouses/status/1629005706165624834
+3. 22k+ signups on the Nas Academy Solana Course (now 27k+): https://twitter.com/akshaybd/status/1629151393222397954
+4. Superteam Mexico brings out 1,000+ builders: https://twitter.com/SuperteamMexico/status/1629982731135336448
+5. Brave Wallet brings Solana DApp support to Android and iOS: https://twitter.com/brave/status/1623007061486317608
+6. The Solana SDK for Unity is live! : https://twitter.com/SolanaFndn/status/1630554378909229056
+7. Squads makes their Multi-sig fully immutable: https://twitter.com/SquadsProtocol/status/1628776620243963904
+8. SolanaFM launches the developer portal: https://twitter.com/solanafm/status/1628059771361443841
+9. Solana Mobile Launches Minty Fresh: https://twitter.com/solanamobile/status/1628488700790464512
+10. Phoenix by Ellipsis Labs now live in beta: https://twitter.com/ellipsis_labs/status/1630695716048760832
+11. Introducing… Solarplex: https://twitter.com/viksit/status/1625278493633429504
+12. Daily Contributions on Hivemapper up 4.5x since Jan: https://twitter.com/MessariCrypto/status/1626237156808335361
+13. Introducing… The Whales: https://twitter.com/catalinawhales/status/1623357771981721600
+14. Marginfi launches mrgnlend: https://twitter.com/marginfi/status/1627714106081054721
+15. Drift V2 crosses $100m in volume: https://twitter.com/DriftProtocol/status/1626446236671959040
+16. Madlist live in Backpack: https://twitter.com/MadLadsNFT/status/1630612210228637696
+
+------------------
+Check out Superteam Earn: https://earn.superteam.fun/
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+
+TIMESTAMPS:
+0:00 - Intro
+0:35 - The Speech
+03:45 - Wins of the Month
+12:53 - State of Solana
+14:08 - Nom from Monkedao
+17:01 - Refi At a Glance
+22:21 - Special guest: Matty
+31:36 - Work to Earn
+34:27 - Apha Drops
+58:00 - Bonus POAP
+59:06 - Thanks for joining
+
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+DISCLAIMER:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: blockchain, web3
+
+Title: 5 Pro-Tips to Win The Solana Hackathon
+Description: In this episode, we decode 5 pro-tips that can help you win the Solana global hackathon. Good luck!
+
+Links mentioned in the video:
+- Register for Grizzlython: https://solana.com/grizzlython
+- Find teammates: https://solana.com/grizzlython/teamup
+- Template pitch deck: https://bit.ly/ST-HackathonDeck
+- Looking for project ideas?: https://build.superteam.fun/
+- Past hackathon winners: https://build.superteam.fun/past-hackathon-winners
+- Find India buildstations: https://superteam.fun/solana-buildstation-india
+
+------------------
+
+Check out Superteam Earn: https://earn.superteam.fun/
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+------------------
+
+TIMESTAMPS:
+0:00 - Intro
+01:07 - What is Grizzlython?
+02:22 - Tip 1: Look for problems, not buzzwords
+08:48 - Tip 2: Build Solana-unique products
+14:01 - Tip 3: Start telling people ASAP
+16:33 - Tip 4: Make functional UX
+18:20 - Tip 5: Spend quality time on your presentation
+21:27 - Need help with the pitch deck?
+22:21 - Bonus Tip
+26:42 - Buildstations
+28:10 - Parting notes
+28:33 - Outro
+
+------------------
+
+DISCLAIMER:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal, or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#win #solana #hackathon
+Tags: blockchain, web3
+
+Title: Hackathon: Solana Grizzlython ft. Arbaaz Khan
+Description: Sign up for the Solana Grizzlython: https://solana.com/grizzlython
+
+------------------
+
+Check out the Superteam Earn: https://earn.superteam.fun/
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+CHECK OUT MY OTHER CHANNELS
+• Tanmay Bhat: https://www.youtube.com/c/TanmayBhatYouTube
+• Honestly by Tanmay Bhat: https://www.youtube.com/@HonestlybyTanmayBhat
+• Bot Army Clips: https://www.youtube.com/@BotArmyClips
+• Honestly Clips: https://www.youtube.com/@HonestlyClips
+
+------------------
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+DISCLAIMER:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: blockchain, web3
+
+Title: Solana Ecosystem Call ft. Balaji, Backpack, Firedancer, BONK, Credix, & Clockwork (Feb 23)
+Description: We're bringing the best and brightest builders on Solana together for another edition of the Ecosystem Community Call!
+
+​Whether you're a builder, and investor, or a user, this is an event not to be missed. In the span of 60 minutes, you'll get up to speed on the latest events, projects, and alpha in the Solana ecosystem. There's no better or faster way to get up to speed with everything Solana.
+
+Solana Grizzlython: https://solana.com/grizzlython
+
+------------------
+
+Wins of the Month
+1. Hacker Houses have kicked off: https://twitter.com/hackerhouses/status/1620458593563574277
+2. Solana - the largest growing developer ecosystem: https://twitter.com/solana/status/1615398642717687842
+3. Priority fees integrated: https://twitter.com/StepFinance_/status/1618996692757647360
+https://twitter.com/armaniferrante/status/1611008135220584448
+https://twitter.com/JupiterExchange/status/1612456801034964993
+https://twitter.com/solflare_wallet/status/1615042381736206337
+4. Sandstorm by LamportDAO: https://twitter.com/0xMert_/status/1617759393453572097
+5. Announcing Grizzlython: https://twitter.com/solana/status/1621162324223725573
+6. Buildstations go live in 7+ cities worldwide: https://twitter.com/solana/status/1621162329776979968
+7. Squads Launches Fuse: https://twitter.com/fusewallet/status/1604937103313600512
+8. Jump creates ARC (Action Registry Core): https://twitter.com/jump_/status/1612503538650779651
+9. Helius announces NFT APIs for Solana: https://twitter.com/heliuslabs/status/1619056160015015941
+10. Dispatch is building Solarplex: https://twitter.com/viksit/status/1617766110467862528
+11. Introducing - The Parcl Protocol: https://twitter.com/Parcl/status/1612588501673062400
+12. Firedancer Team reaches its first milestone: https://twitter.com/jump_firedancer/status/1613582309629857815
+13. Dialect is live on Android: https://twitter.com/saydialect/status/1620814797444112386
+14. Orca Reigns Supreme: https://twitter.com/orca_so/status/1611054249412268034
+15. Jupiter Launches Jupiter Terminal: https://twitter.com/JupiterExchange/status/1612841734043734019
+16. Metaplex ships Programmable NFTs: https://twitter.com/metaplex/status/1618436599616012288
+17. TipLink announces support for all SPL tokens: https://twitter.com/TipLinkOfficial/status/1612872911102033921
+18. sec3 raises a $10m seed round: https://twitter.com/sec3dev/status/1620489993482571776
+
+------------------
+Check out Superteam Earn: https://earn.superteam.fun/
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+
+TIMESTAMPS:
+0:00 - Gm
+0:33 - Bounties
+01:18 - Agenda
+02:54 - Wins of the month
+11:12 - The State of Solana
+24:16 - Quic Project updates
+53:20 - Solana Sandstorm Hackathon Results
+01:01:29 - Alpha Drop
+01:06:27 - Thanks for joining in
+01:07:06 - Outro
+
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+DISCLAIMER:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: blockchain, web3
+
+Title: The future of developer experience ft. Amjad & Balaji
+Description: In this video, we talk with Balaji Srinivasan (Entrepreneur, investor, and author), and Amjad Masad (Founder of Replit). We talk about AI being regulated, Bounties, Replit, and Replit's plan for India. Enjoy!
+------------------
+Links mentioned in the video:
+- Balaji stanford course: https://youtu.be/0QC1FK2_pqg
+- The Boy Genius of Ulan Bator article: https://www.nytimes.com/2013/09/15/magazine/the-boy-genius-of-ulan-bator.html
+- Coase’s theory of the firm: https://www.economist.com/schools-brief/2017/07/29/coases-theory-of-the-firm
+- AI-generated NYT-tier article from tweets: https://twitter.com/balajis/status/1601398685106991105
+- Unsafe AI practice by Anna Eshoo: https://eshoo.house.gov/media/press-releases/eshoo-urges-nsa-ostp-address-unsafe-ai-practices
+
+Checkout Replit: https://replit.com/
+
+Follow our guests here: 
+Amjad Masad - https://twitter.com/amasad
+Balaji - https://twitter.com/balajis
+
+Check out the Superteam Earn: https://earn.superteam.fun/
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+------------------
+Timestamps:
+0:00 - gm
+0:37 - Guests introduce each other
+9:25 - the 2015 Master Plan
+13:00 - Replit launches bounties
+24:27 - Limitations of bounties
+27:01 - Can AI complete bounties in future?
+32:25 - controlled AI
+39:38 - Replit's plans for India
+45:27 - Amjad's views on crypto
+47:06 - Amjad's response to Taleb
+49:18 - Developers should know how to market
+1:16:12 - Parting notes
+1:16:43 - Outro
+------------------
+
+CHECK OUT MY OTHER CHANNELS
+• Tanmay Bhat: https://www.youtube.com/c/TanmayBhatYouTube
+• Honestly by Tanmay Bhat: https://www.youtube.com/@HonestlybyTanmayBhat
+• Bot Army Clips: https://www.youtube.com/@BotArmyClips
+• Honestly Clips: https://www.youtube.com/@HonestlyClips
+
+------------------
+
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+
+------------------
+
+DISCLAIMER:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#artificialintelligence #replit #balaji
+Tags: blockchain, web3, balaji srinivasan, replit, indian developers, AI, artificial intelligence
+
+Title: Best thing about Indian Developers ft. Chase Barker
+Description: In this video, we talk with Chase Barker (Head of Developer Ecosystem at Solana), and we talk about his journey, why he chose Solana, his views on Indian developers, and the biggest hackathon! Enjoy.
+------------------
+Links mentioned in the video:
+- Solana Cookbook: https://solanacookbook.com/
+- Solana job board: https://jobs.solana.com/jobs
+- Superteam job board: https://earn.superteam.fun/opportunities/category/jobs
+- Build space Solana course: https://buildspace.so/solana
+- Solana hacker houses happening this year: https://solana.com/events
+
+Follow Chase Barker here: https://twitter.com/therealchaseeb
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+Timestamps:
+0:00 - Gm
+2:57 - Life before solana
+7:25 - Solana Hacker house story
+10:53 - Why did he choose Solana?
+13:36 - Chase's expectations of Blr HH
+16:24 - Chase's views on India
+19:55 - Tanmay as DevRel
+20:55 - Good thing about Indian developers
+25:56 - Feedback for Indian developers
+27:35 - Developers thoughts on Marketers
+33:28 - How is Solana community holding up?
+38:03 - Solana's BD and Communication
+40:50 - Upcoming Hacker House!
+43:36 - Parting notes
+44:34 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal, or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#indian #developer  #solana
+Tags: blockchain, web3, solana, indian developer, developer, hackathon, hacker house
+
+Title: Solana vs Ethereum Debate ft. Anatoly & Toghrul
+Description: A spirited debate between Anatoly Yakovenko (co-founder of Solana and CEO of  Solana Labs) and Toghrul Maharramov (Researcher, Scroll), moderated by C-node (Researcher, Switchboard), on the decentralization, economic security, trustless bridges, L3, and more. Enjoy!
+------------------
+Links mentioned in the video:
+Rationality is Self-Defeating in Permissionless Systems: https://arxiv.org/abs/1910.08820
+Dark Forest: https://zkga.me/
+
+Follow the panel here:
+Anatoly Yakovenko: https://twitter.com/aeyakovenko
+C-node: https://twitter.com/colludingnode
+Toghrul Maharramov: https://twitter.com/toghrulmaharram
+
+Checkout Superteam Earn: https://twitter.com/SuperteamEarn
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+Timestamps:
+0:00 - Gm
+01:21 - Describe the other project
+03:26 - Purpose of your project
+06:47 - How big should a full node be?
+15:09 - Should every smartphone be able to verify all transactions?
+32:19 - What is economic security?
+40:01 - Trustless bridges
+47:22 - Views on Validium
+59:04 - Do we need an L3?
+1:01:03 - Should apps launch their own chain?
+1:11:10 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal, or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#decentralization #solana #zk
+Tags: blockchain, web3, solana, zero knowledge proof, zk, decentralization, economic security, trustless bridge
+
+Title: Solana Ecosystem Call - Dec 2022
+Description: It’s been a wild few weeks. Superteam is celebrating teams and builders who have had the gumption to keep shipping products amidst the chaos.
+
+​Grab a glass of wine or a mug of coffee! We'll start with some ecosystem-wide wins, followed by a dive into the state of the network, before hearing lightning-fast updates from teams that have been shipping over the past 4 weeks.
+
+​This is an experimental format, adopted from the Superteam Community Call that’s hosted every week (for over a year now). Hopefully, it works just as well and makes your Thursday feel as good as Friday. See you then!
+------------------
+Link to the presentation: https://pitch.com/public/f3577a09-fcd6-4871-9fff-c36ea85082a8/b8ec0f83-913f-4485-9ab2-15e02d60f5eb
+
+Wins of the Month
+-----------------------------
+- Stripe fiat to crypto:
+https://twitter.com/stripe/status/1598361957836279809?s=20&t=wslmJDFwYqkw0PtFGksrEA
+
+- Discord announces linked roles: https://twitter.com/solana/status/1602352049550680064?s=20&t=wslmJDFwYqkw0PtFGksrEA
+
+- Introducing matchday: https://twitter.com/matchday/status/1593441888119320576?s=20&t=wslmJDFwYqkw0PtFGksrEA
+
+- Saga phone preorder starts: https://twitter.com/solanamobile/status/1597548283756367872?s=20&t=wslmJDFwYqkw0PtFGksrEA
+
+- Orca has facilitated $32B+ in trading volume: https://twitter.com/orca_so/status/1600174346663649287?s=20&t=wslmJDFwYqkw0PtFGksrEA
+
+- Openbook intigreates into Raydium and Jupiter: https://twitter.com/JupiterExchange/status/1593608022651113472?s=20&t=wslmJDFwYqkw0PtFGksrEA
+
+- Magic Eden launches open creator protocol: https://twitter.com/MagicEden/status/1598400031999918080?s=20&t=wslmJDFwYqkw0PtFGksrEA
+
+- Jito Labs open-sources Jito Solana: https://twitter.com/solscanofficial/status/1594295238499397632?s=20&t=wslmJDFwYqkw0PtFGksrEA
+
+- UXD goes open-source: https://twitter.com/UXDProtocol/status/1598161593875169281?s=20&t=wslmJDFwYqkw0PtFGksrEA
+
+- SuperteamDAO goes Global: https://twitter.com/therealchaseeb/status/1602843896656138240?s=20&t=wslmJDFwYqkw0PtFGksrEA
+
+- Ellipsis Labs announced Phoenix: https://twitter.com/ellipsis_labs/status/1592196679956156420?s=20&t=wslmJDFwYqkw0PtFGksrEA
+
+- Helius improves webhook latencies by over 10x: https://twitter.com/heliuslabs/status/1595877389548011521?s=20&t=wslmJDFwYqkw0PtFGksrEA
+
+- Squads introduce account abstraction: https://twitter.com/SquadsProtocol/status/1600489076569751552?s=20&t=wslmJDFwYqkw0PtFGksrEA
+
+- Binance Custody integrates Solana: https://twitter.com/BinanceCustody/status/1601042937873256448?s=20&t=wslmJDFwYqkw0PtFGksrEA
+
+- Solana local fee markets are live: https://twitter.com/aeyakovenko/status/1603124352479678464?s=20&t=wslmJDFwYqkw0PtFGksrEA
+============
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+Timestamps:
+0:00 - Welcome to Ecosystem Call
+04:49 - Wins of the Month
+11:49 - The State of Solana
+25:54 - Quic Updates
+57:22 - Pyth New Video!
+58:14 - 10 Days of Earnings
+59:48 - Parting notes
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal, or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#Solana #Community #Superteam
+Tags: blockchain, web3, Solana
+
+Title: Stripe Fiat Onramps, Kazakhstan CBDC, Buying Coffee with Crypto | Superteam Crypto Twitter Round Up
+Description: In this episode, we try something different and go through what happened on crypto Twitter. Enjoy!
+
+------------------
+Tweets:
+Tweet 1 - https://bit.ly/3ULT6Oo
+Tweet 2 - https://bit.ly/3Pjt4AF
+Tweet 3 - https://bit.ly/3hldgkn
+Tweet 4 - https://bit.ly/3FKeIGI
+Tweet 5 - https://bit.ly/3UP4Pf4
+Tweet 6 - https://bit.ly/3YqEDdR
+Tweet 7 - https://bit.ly/3hfltXk
+Tweet 8 - https://bit.ly/3Br625d
+Tweet 9 - https://bit.ly/3UK0BFn
+Tweet 10 - https://bit.ly/3V2Zn8B
+
+Links mentioned in video:
+- Building the ultimate loyalty rewards program: https://superteam.substack.com/p/web3-loyalty-rewards
+- What in the Ethereum application ecosystem excites me: https://vitalik.ca/general/2022/12/05/excited.html
+- Brian Armstrong & Garry Tan podcast: https://youtu.be/UpbGbKQsTjc
+
+Checkout Superteam Earn: https://earn.superteam.fun/
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+Timestamps:
+0:00 - Gm!
+0:56 - tweet 1
+05:15 - tweet 2
+06:33 - tweet 3
+08:42 - tweet 4
+10:36 - tweet 5
+13:09 - tweet 6
+15:37 - tweet 7
+18:25 - tweet 8
+19:58 - tweet 9
+21:37 - tweet 10
+24:20 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#superteam  #web3  #crypto
+Tags: blockchain, web3, stripe fiat onramp, crypto roundup, Kazakhstan CBDC, Kazakhstan Binance
+
+Title: Raoul's thoughts on Inflation vs Deflation in the future! | Superteam Clips
+Description: In this video, we talk with Raoul Pal, who's co-founder of Real Vision, about Micro-Macro, Inflation vs Deflation, and Real Vision India. Enjoy!
+
+Watch the full podcast here: https://youtu.be/xVrKTxm-3Vc
+
+------------------
+Checkout Real Vision:
+Website - https://www.realvision.com/
+twitter - https://twitter.com/RealVision
+
+Follow Raoul: https://twitter.com/RaoulGMI
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#web3 #crypto #superteam
+Tags: blockchain, web3
+
+Title: Real Vision in India, Future Plans and Community Building! | Superteam Clips
+Description: In this video, we talk with Raoul Pal, who's co-founder of Real Vision, about Micro-Macro, Inflation vs Deflation, and Real Vision India. Enjoy!
+
+Watch the full podcast here: https://youtu.be/xVrKTxm-3Vc
+
+------------------
+Checkout Real Vision:
+Website - https://www.realvision.com/
+twitter - https://twitter.com/RealVision
+
+Follow Raoul: https://twitter.com/RaoulGMI
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#web3 #crypto #superteam[main description]
+------------------
+Download [Guest]: 
+Follow [Guest] here: 
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+Timestamps:
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#hashtag1 #hashtag2 #hashtag3
+Tags: blockchain, web3
+
+Title: Raoul's Vision on Bitcoin's future, starting a career in Finance and more! | Superteam Clips
+Description: In this video, we talk with Raoul Pal, who's co-founder of Real Vision, about Micro-Macro, Inflation vs Deflation, and Real Vision India. Enjoy!
+
+Watch the full podcast here: https://youtu.be/xVrKTxm-3Vc
+
+------------------
+Checkout Real Vision:
+Website - https://www.realvision.com/
+twitter - https://twitter.com/RealVision
+
+Follow Raoul: https://twitter.com/RaoulGMI
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#web3 #crypto #superteam
+Tags: blockchain, web3
+
+Title: How does Bitcoin deal with Inflation? Can you hedge it? | Superteam Clips
+Description: In this video, we talk with Raoul Pal, who's co-founder of Real Vision, about Micro-Macro, Inflation vs Deflation, and Real Vision India. Enjoy!
+
+Watch the full podcast here: https://youtu.be/xVrKTxm-3Vc
+
+------------------
+Checkout Real Vision:
+Website - https://www.realvision.com/
+twitter - https://twitter.com/RealVision
+
+Follow Raoul: https://twitter.com/RaoulGMI
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#web3 #crypto #superteam
+Tags: blockchain, web3, bitcoin inflation hedge, bitcoin hedge against inflation, bitcoin vs inflation, inflation bitcoin meme, inflation bitcoin 2021, inflation bitcoin price, how does bitcoin hedge against inflation, how bitcoin solve inflation, superteam podcast, superteam tanmay bhat, raoul pal crypto, raoul pal real vision, raoul pal ethereum
+
+Title: Macro Investing, Hedge Funds and Crypto! Ft. Real Vision founder Raoul Pal | Superteam Podcast
+Description: In this video, we talk with Raoul Pal, who's co-founder of Real Vision, about Micro-Macro, Inflation vs Deflation, and Real Vision India. Enjoy
+------------------
+Checkout Real Vision:
+Website - https://www.realvision.com/
+twitter - https://twitter.com/RealVision
+
+Follow Raoul: https://twitter.com/RaoulGMI
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+------------------
+
+Timestamps:
+00:00 - gm Raoul
+01:49 - How did Raoul get into finance?
+07:09 - Crypto co-related to inflation?
+12:10 - Dollar dominance explained
+16:30 - Inflation vs Deflation
+24:47 - Peer's views on Crypto
+27:37 - The largest driver of bitcoin
+29:06 - Crypto as an asset class where inflation goes up?
+33:20 - Advice for young finance folks
+34:54 - Real Vision India!
+37:57 - Raoul's relationship with work
+42:33 - Adoption of crypto inevitable?
+43:42 - Real Vision future plans
+48:22 - Raoul and Rum
+55:35 - Outro
+
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#web3 #crypto #superteam
+Tags: blockchain, web3
+
+Title: Google shows Ethereum Balance, Appchains, Crypto vs FANG & More! | Superteam Crypto Twitter Round Up
+Description: In this episode, we try something different and go through what happened on crypto Twitter. Enjoy!
+
+------------------
+Tweets:
+tweet 1 - https://bit.ly/3TglwzZ
+tweet 2 - https://bit.ly/3EPTJ4T
+tweet 3 - https://bit.ly/3D6NdFW
+tweet 4 - https://bit.ly/3TsVwkt
+tweet 5 - https://bit.ly/3MEf5UO
+tweet 6 - https://bit.ly/3s9l2j2
+tweet 7 - https://bit.ly/3s3Rzap
+tweet 8 - https://bit.ly/3D5ZzOi
+tweet 9 - https://bit.ly/3S96dYG
+tweet 10 - https://bit.ly/3S6xef7
+tweet 11 - https://bit.ly/3TbsfLD
+tweet 12 -https://bit.ly/3TglGHB
+tweet 13 - https://bit.ly/3S4mQoc
+tweet 14 - https://bit.ly/3VzXIbS
+tweet 15 - https://bit.ly/3D6l3uv
+tweet 16 - https://bit.ly/3TaKgK5
+
+Stop Building for Crypto Twitter - https://superteam.substack.com/p/stop-building-for-crypto-twitter
+
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+Timestamps:
+0:00 - Intro
+01:52 - tweet 1
+04:10 - tweet 2
+05:02 - tweet 3
+06:22 - tweet 4
+07:44 - tweet 5
+08:24 - tweet 6
+09:03 - tweet 7
+11:23 - tweet 8
+12:05 - tweet 9
+13:00 - tweet 10
+15:56 - tweet 11
+22:30 - tweet 12
+26:47 - tweet 13
+28:19 - tweet 14
+30:01 - tweet 15
+31:15 - tweet 16
+34:09 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#superteam  #web3  #crypto
+Tags: blockchain, web3
+
+Title: Coral $20M funding, 1100 ETH hack, Solana Outage, and more! | Superteam Crypto Twitter Round Up
+Description: In this episode, we try something different and go through what happened on crypto Twitter. Enjoy!
+
+------------------
+Tweets:
+Tweet 1 - https://bit.ly/3ydSU1K
+Tweet 2 - https://bit.ly/3e0Xo5d
+Tweet 3 - https://bit.ly/3SBRZQT
+Tweet 4 - https://bit.ly/3e2BdLT
+Tweet 5 - https://bit.ly/3SzWXxL
+Tweet 6 - https://bit.ly/3e2BdLT
+Tweet 7 - https://bit.ly/3V0yMtH
+Tweet 8 - https://bit.ly/3fDdNNu
+Tweet 9 - https://bit.ly/3yeITS4
+Tweet 10 - https://bit.ly/3Egj6wK
+Tweet 11 - https://bit.ly/3SPWtUp
+Tweet 12 - https://bit.ly/3yi2Ozt
+Tweet 13 - https://bit.ly/3SWNmAT
+Tweet 14 - https://bit.ly/3Rz5LCw
+
+
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+Timestamps:
+0:00 - Akshay's cap
+01:41 - Tweet 1
+02:53 - Tweet 2
+05:13 - Tweet 3
+06:24 - Tweet 4
+07:38 - Tweet 5
+08:58 - Tweet 6
+10:29 - Tweet 7
+13:29 - Tweet 8
+13:55 - Tweet 9
+15:38 - Tweet 10
+17:00 - Tweet 11
+17:59 - Tweet 12
+20:30 - Tweet 13
+21:06 - Tweet 14
+23:28 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#superteam  #web3  #crypto
+Tags: blockchain, web3
+
+Title: Open Source, Helium on Solana, $160M Wintermute hack and more! | Superteam Crypto Twitter Round Up
+Description: In this episode, we try something different and go through what happened on crypto Twitter. Enjoy!
+
+------------------
+Tweets:
+Tweet 1 - https://bit.ly/3E03pJX
+Tweet 2 - https://bit.ly/3fwlvJ5
+Tweet 3 - https://bit.ly/3LQQGuS
+Tweet 4 - https://bit.ly/3BUhZjp
+Tweet 5 - https://bit.ly/3RsR9o5
+Tweet 6 - https://bit.ly/3rfTg43
+Tweet 7 - https://bit.ly/3UM7irR
+Tweet 8 - https://bit.ly/3rfR9gy
+Tweet 9 - https://bit.ly/3SGleSb
+Tweet 10 - https://bit.ly/3LUpkUx
+Tweet 11 - https://bit.ly/3fu2ibc
+Tweet 12 - https://bit.ly/3SIPr37
+Tweet 13 - https://bit.ly/3y2Zqs3
+Tweet 14 - https://bit.ly/3SMKJl3
+Tweet 15 - https://bit.ly/3dQRQKp
+
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+
+Timestamps:
+00:00 - Couple's therapy
+01:18 - tweet 1
+02:22 - tweet 2
+03:04 - tweet 3
+04:03 - tweet 4
+05:33 - tweet 5
+06:57 - tweet 6
+08:01 - tweet 7
+09:33 - tweet 8
+10:40 - tweet 9
+11:21 - tweet 10
+12:27 - tweet 11
+15:57 - tweet 12
+18:56 - tweet 13
+19:58 - tweet 14
+23:27 - tweet 15
+26:36 - Outro
+
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#superteam  #web3  #crypto
+Tags: blockchain, web3, cryptocurrency, bitcoin, ethereum, crypto, btc, crypto news, bear market, bear market 2022, crypto bear market, crypto bear market 2022, crypto bear market 2022 prediction, crypto bear market end, ethereum merge, ethereum upgrade, ethereum 2.0, ethereum 2.0 explained, ethereum explained, ethereum mining, ether mining, ethereum proof of stake, proof of stake explained, ethereum transactions, ethereum 2022, ethereum news, superteam podcast, superteam tanmay
+
+Title: Superteam Earn is HERE!
+Description: Would love to hear your feedback on Product Hunt: https://www.producthunt.com/posts/superteam-earn
+
+Superteam Earn allows developers, designers, and everyone else to find earning opportunities in Web3. Complete an on-chain bounty and receive a Proof of Work NFT to start building your on-chain resume.
+
+Give us feedback on product hunt: https://www.producthunt.com/posts/superteam-earn
+
+Follow along on Twitter: https://twitter.com/SuperteamTalent
+
+Shout out to Kash Dhanda, Yash Bhardwaj, Srijan Shetty, 0xBolt, Pratik Dholani, and Pratik Saria for putting this project together with the entire Superteam community.
+Tags: superteam, superteam podcast, solana hacker house delhi, super team, ethereum merge, balaji srinivasan, vinod khosla, solana hacker house, eth merge, ethereum merge explained, jump trading, ethereum, kash dhanda, crypto billionaire, eth merge explained, helium crypto, web3 jobs, business podcast, crypto podcast, defi, ethereum merge live, joe mccann, the merge ethereum, web3, webaverse, what is ethereum merge, ai in healthcare, balaji srinivasan india, bear market crypto
+
+Title: PoS vs PoW - what's better for ETH? | Superteam clips
+Description: Watch the full podcast here: https://youtu.be/Xr17XHs1sPI
+
+The Ethereum merge is here and so - in today's video Kash tells us the story of the merge - what the merge is - what is the impact going to be like - and what can we expect as users post merge! 
+
+FOLLOW THE PANELISTS
+Devaiah: https://www.instagram.com/devaiah.bopanna/
+Kash: https://twitter.com/kashdhanda
+Mr. Yalamanchi: https://twitter.com/mryalamanchi
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#crypto  #blockchain  #ethereum
+Tags: ethereum merge price prediction, ethereum price, ethereum price prediction, ethereum crash, ethereum merge tips, ethereum merge fork, ethereum merge clock, ethereum merge prijs, what is ethereum merge, ethereum merge uitleg, warning ethereum merge, ethereum merge, ethereum, ethereum 2.0, ethereum merge explained, ethereum merge date, merge, ethereum news, Ethereum merge is coming, superteam podcast, superteam tanmay bhat
+
+Title: ETH Merge what you need to keep in mind | Superteam Clips
+Description: Watch the full podcast here: https://youtu.be/Xr17XHs1sPI
+
+The Ethereum merge is here and so - in today's video Kash tells us the story of the merge - what the merge is - what is the impact going to be like - and what can we expect as users post merge! 
+
+FOLLOW THE PANELISTS
+Devaiah: https://www.instagram.com/devaiah.bopanna/
+Kash: https://twitter.com/kashdhanda
+Mr. Yalamanchi: https://twitter.com/mryalamanchi
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#crypto  #blockchain  #ethereum
+Tags: ethereum merge price prediction, ethereum price, ethereum price prediction, ethereum crash, ethereum merge tips, ethereum merge fork, ethereum merge clock, ethereum merge prijs, what is ethereum merge, ethereum merge uitleg, warning ethereum merge, ethereum merge, ethereum, ethereum 2.0, ethereum merge explained, ethereum merge date, merge, ethereum news, Ethereum merge is coming, superteam podcast, superteam tanmay bhat
+
+Title: Ethereum merge explained in 10 minutes | Superteam Clips
+Description: Watch the full podcast here: https://youtu.be/Xr17XHs1sPI
+
+The Ethereum merge is almost here and so - in today's video Kash tells us the story of the merge - what the merge is - what is the impact going to be like - and what can we expect as users post merge! 
+
+FOLLOW THE PANELISTS
+Devaiah: https://www.instagram.com/devaiah.bopanna/
+Kash: https://twitter.com/kashdhanda
+Mr. Yalamanchi: https://twitter.com/mryalamanchi
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#crypto  #blockchain  #ethereum
+Tags: ethereum merge price prediction, ethereum price, ethereum price prediction, ethereum crash, ethereum merge tips, ethereum merge fork, ethereum merge clock, ethereum merge prijs, what is ethereum merge, ethereum merge uitleg, warning ethereum merge, ethereum merge, ethereum, ethereum 2.0, ethereum merge explained, ethereum merge date, merge, ethereum news, Ethereum merge is coming, superteam podcast, superteam tanmay bhat
+
+Title: Superteam Public Community Call (Live from Delhi Hacker House)
+Description: Welcome to our second-ever live community call at Solana Hacker House India edition.
+
+Find work in Web3: https://superteam.fun/find-work-in-web3
+
+Checkout Superteam Talent: https://twitter.com/SuperteamTalent
+Checkout FTX Superteam: https://twitter.com/ftxsuperteam
+------------------ 
+Check out the Superteam Job board: https://superpumped-jobs.pallet.xyz/u/superpumped
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: 
+
+Title: Ava Labs Controversy, MEV, Real Satoshi and more | Superteam Crypto Twitter Round Up
+Description: In this episode, we try something different and go through what happened on crypto Twitter. Enjoy
+------------------
+Tweets:
+Tweet 1 - https://bit.ly/3KKVTnk
+Tweet 2 - https://bit.ly/3QhSihZ
+Tweet 3 - https://bit.ly/3L0A6sh
+Tweet 4 - https://bit.ly/3q85ATB
+Tweet 5 - https://bit.ly/3RxdAsU
+Tweet 6 - https://bit.ly/3RC5qPQ
+Tweet 7 - hhttps://bit.ly/3qh1NTL
+Tweet 8 - https://bit.ly/3qtGcYJ
+Tweet 9 - https://bit.ly/3ebwnvk
+Tweet 10 - https://bit.ly/3TGhBwS
+Tweet 11 - https://bit.ly/3RiQt5I
+Tweet 12 - https://bit.ly/3RiSQoZ
+
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+Timestamps:
+0:00 - Intro
+01:25 - Tweet 1
+04:13 - Tweet 2
+05:03 - Tweet 3
+05:29 - Tweet 4
+06:20 - Tweet 5
+07:33 - Tweet 6
+09:19 - Tweet 7
+13:12 - Tweet 8
+15:16 - Tweet 9
+16:12 - Tweet 10
+17:49 - Tweet 11
+20:34 - Tweet 12
+
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal, or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#crypto #superteam #web3
+Tags: blockchain, web3, cryptocurrency, bitcoin, ethereum, crypto, btc, crypto news, bear market, bear market 2022, crypto bear market, crypto bear market 2022, crypto bear market 2022 prediction, crypto bear market end, ethereum merge, ethereum upgrade, ethereum 2.0, ethereum 2.0 explained, ethereum explained, ethereum mining, ether mining, ethereum proof of stake, proof of stake explained, ethereum transactions, ethereum 2022, ethereum news, superteam podcast, superteam tanmay
+
+Title: Can humans live forever? | Superteam Clips
+Description: Watch the full podcast here: https://youtu.be/FlasVNsChHs
+
+We chat with the legendary founder turned investor Vinod Khosla. He co-founded Sun Microsystems at the age of 27 and then went on to have one of the most prolific venture capital careers in Kleiner Perkins, and now Khosla Ventures. We discuss crypto, AI, emerging areas in health tech, and much more. Enjoy!
+
+Khosla Ventures (KV): https://www.khoslaventures.com/ 
+How to contact KV: To be considered for funding, please email a full business plan to kv@khoslaventures.com. Job seekers interested in positions within KV portfolio companies are encouraged to join their Talent Network and search open roles at jobs.khoslaventures.com. 
+
+Jobs at Helium: https://www.helium.com/careers
+CK-12.org: https://www.ck12.org/student/
+AI Reimagines Lord Of The Rings Characters As Described In Book: https://medium.com/mlearning-ai/ai-re...
+Vinod Khosla's Stanford talk: https://youtu.be/HZcXup7p5-8
+
+Follow Vinod Khosla here: https://twitter.com/vkhosla
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+Listen this podcast on spotify: https://open.spotify.com/episode/0TpI8JNcZvCBRd0W8jWC59?si=oPGx0B5ETtWBR7f2ui9SxA
+
+#liveforever #web3 #crypto 
+
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#superteam #artificialintelligence #healthcare
+Tags: blockchain, web3
+
+Title: Bear Market Crypto, Ethereum Merge and More! | Superteam Crypto Twitter Round Up
+Description: In this episode, we try something different and go through what happened on crypto Twitter. Enjoy
+------------------
+Fat Protocol thesis: https://www.usv.com/writing/2016/08/fat-protocols/
+
+Tweets:
+Tweet 1 - https://bit.ly/3PTDkOT
+Tweet 2 - https://bit.ly/3Ktlktq
+Tweet 3 - https://bit.ly/3Ktll0s
+Tweet 4 - https://bit.ly/3KuyFSC
+Tweet 5 - https://bit.ly/3wz8Z16
+Tweet 6 - https://bit.ly/3e1H57Q
+Tweet 7 - https://bit.ly/3e6URGk
+Tweet 8 - https://bit.ly/3cu6K8H
+Tweet 9 - https://bit.ly/3AqfUuJ
+Tweet 10 - https://bit.ly/3cybNoq
+Tweet 11 - https://bit.ly/3KokT3T
+Tweet 12 - https://bit.ly/3wEtXMb
+Tweet 13 - https://bit.ly/3CCKt3h
+Tweet 14 - https://bit.ly/3e6UWK8
+
+Say hi to Tamar: https://twitter.com/tamarincrypto
+
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+Timestamps:
+0:00 - Kash as host
+0:52 - Tweet 1
+2:59 - Tweet 2
+10:27 - Tweet 3
+12:03 - Tweet 4
+13:59 - Tweet 5
+17:06 - Tweet 6
+18:16 - Tweet 7
+21:54 - Tweet 8
+23:06 - Tweet 9
+23:53 - Tweet 10
+24:48 - Tweet 11
+25:20 - Tweet 12
+26:35 - Tweet 13
+28:09 - Tweet 14
+29:20 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal, or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#Crypto #superteam #web3
+Tags: blockchain, web3, cryptocurrency, bitcoin, ethereum, crypto, btc, crypto news, bear market, bear market 2022, crypto bear market, crypto bear market 2022, crypto bear market 2022 prediction, crypto bear market end, ethereum merge, ethereum upgrade, ethereum 2.0, ethereum 2.0 explained, ethereum explained, ethereum mining, ether mining, ethereum proof of stake, proof of stake explained, ethereum transactions, ethereum 2022, ethereum news, superteam podcast, superteam tanmay
+
+Title: How Crypto is Disrupting The Real World | Superteam Clips
+Description: Watch the full podcast here: https://youtu.be/FlasVNsChHs
+
+We chat with the legendary founder turned investor Vinod Khosla. He co-founded Sun Microsystems at the age of 27 and then went on to have one of the most prolific venture capital careers in Kleiner Perkins, and now Khosla Ventures. We discuss crypto, AI, emerging areas in health tech, and much more. Enjoy!
+
+Khosla Ventures (KV): https://www.khoslaventures.com/ 
+How to contact KV: To be considered for funding, please email a full business plan to kv@khoslaventures.com. Job seekers interested in positions within KV portfolio companies are encouraged to join their Talent Network and search open roles at jobs.khoslaventures.com. 
+
+Jobs at Helium: https://www.helium.com/careers
+CK-12.org: https://www.ck12.org/student/
+AI Reimagines Lord Of The Rings Characters As Described In Book: https://medium.com/mlearning-ai/ai-re...
+Vinod Khosla's Stanford talk: https://youtu.be/HZcXup7p5-8
+
+Follow Vinod Khosla here: https://twitter.com/vkhosla
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+Listen this podcast on spotify: https://open.spotify.com/episode/0TpI8JNcZvCBRd0W8jWC59?si=oPGx0B5ETtWBR7f2ui9SxA
+
+#crypto #venturecapital #web3 
+
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#superteam #artificialintelligence #healthcare
+Tags: blockchain, web3
+
+Title: Brutal Honesty as a luxury | Superteam Clips
+Description: Watch the full podcast here: https://youtu.be/FlasVNsChHs
+
+We chat with the legendary founder turned investor Vinod Khosla. He co-founded Sun Microsystems at the age of 27 and then went on to have one of the most prolific venture capital careers in Kleiner Perkins, and now Khosla Ventures. We discuss crypto, AI, emerging areas in health tech, and much more. Enjoy!
+
+Khosla Ventures (KV): https://www.khoslaventures.com/ 
+How to contact KV: To be considered for funding, please email a full business plan to kv@khoslaventures.com. Job seekers interested in positions within KV portfolio companies are encouraged to join their Talent Network and search open roles at jobs.khoslaventures.com. 
+
+Jobs at Helium: https://www.helium.com/careers
+CK-12.org: https://www.ck12.org/student/
+AI Reimagines Lord Of The Rings Characters As Described In Book: https://medium.com/mlearning-ai/ai-re...
+Vinod Khosla's Stanford talk: https://youtu.be/HZcXup7p5-8
+
+Follow Vinod Khosla here: https://twitter.com/vkhosla
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+Listen this podcast on spotify: https://open.spotify.com/episode/0TpI8JNcZvCBRd0W8jWC59?si=oPGx0B5ETtWBR7f2ui9SxA
+
+#venturecapital #crypto #startup 
+
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#superteam #artificialintelligence #healthcare
+Tags: blockchain, web3
+
+Title: How Artificial Intelligence can change Health care | Superteam Clips
+Description: Watch the full podcast here: https://youtu.be/FlasVNsChHs
+
+We chat with the legendary founder turned investor Vinod Khosla. He co-founded Sun Microsystems at the age of 27 and then went on to have one of the most prolific venture capital careers in Kleiner Perkins, and now Khosla Ventures. We discuss crypto, AI, emerging areas in health tech, and much more. Enjoy!
+
+Khosla Ventures (KV): https://www.khoslaventures.com/ 
+How to contact KV: To be considered for funding, please email a full business plan to kv@khoslaventures.com. Job seekers interested in positions within KV portfolio companies are encouraged to join their Talent Network and search open roles at jobs.khoslaventures.com. 
+
+Jobs at Helium: https://www.helium.com/careers
+CK-12.org: https://www.ck12.org/student/
+AI Reimagines Lord Of The Rings Characters As Described In Book: https://medium.com/mlearning-ai/ai-re...
+Vinod Khosla's Stanford talk: https://youtu.be/HZcXup7p5-8
+
+Follow Vinod Khosla here: https://twitter.com/vkhosla
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+Listen this podcast on spotify: https://open.spotify.com/episode/0TpI8JNcZvCBRd0W8jWC59?si=oPGx0B5ETtWBR7f2ui9SxA
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#superteam #artificialintelligence #healthcare
+Tags: blockchain, web3, ai in healthcare, what is ai, artificial intelligence, artificial intelligence in healthcare, ai in healthcare 2019, artificial intelligence in healthcare past present and future, clinical care, machine learning, deep learning, deep learning with python, artificial intelligence with python, superteam podcast, superteam dao, superteam tanmay, superteam tanmay bhat
+
+Title: Sure shot signs of a good NFT? | 2 simple ways to choose NFTs | Superteam Clips
+Description: Watch the full episode here: https://youtu.be/yB53hDQ_oz4
+
+------------------
+We chat with Anand (formerly the wearer of the Twobadaur exosuit) and Mairu — founders of eDAO about their past lives and current adventures in NFTs, music, and movies. Enjoy!
+------------------
+Get to know what eDAO's all about here: www.edao.co
+unlabel by eDAO Season 1: edao.co/unlabel.html
+
+eDAO Instagram: www.instagram.com/edaohq/
+eDAO Twitter: www.twitter.com/edaoHQ
+
+Is this up your alley? Shoot us an email at connect@edao.co
+Open positions: Community Manager, Programme Manager, Copywriter, Art Director
+
+Follow Anand here: https://twitter.com/viananda
+Follow Mairu here: https://twitter.com/mojaswi
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+Listen this podcast on Spotify: https://spoti.fi/3SQSC9H
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#crypto #nfts #superteam
+Tags: blockchain, web3, next nfts to explode, 100x nfts, next 100x nft, undervalued nfts, nft, nfts, nft alpha, nifty alpha, opensea, nft verse, new nfts, new nft projects, most hyped nfts, what is an nft, nft investing, flipping nfts, 100x nft, 10x nfts, upcoming nft, new nft, nft drops, nft millionaire, upcoming nfts, blue chip nft, nfts early, finding nfts early, metaverse nft, nft strategy, nft tips, bored ape, bored ape yacht club, nft trends
+
+Title: Buying a 550 CRORE NFT in a Crypto Auction! | Superteam Clips
+Description: Watch the full episode here: https://youtu.be/yB53hDQ_oz4
+
+------------------
+We chat with Anand (formerly the wearer of the Twobadaur exosuit) and Mairu — founders of eDAO about their past lives and current adventures in NFTs, music, and movies. Enjoy!
+------------------
+Get to know what eDAO's all about here: www.edao.co
+unlabel by eDAO Season 1: edao.co/unlabel.html
+
+eDAO Instagram: www.instagram.com/edaohq/
+eDAO Twitter: www.twitter.com/edaoHQ
+
+Is this up your alley? Shoot us an email at connect@edao.co
+Open positions: Community Manager, Programme Manager, Copywriter, Art Director
+
+Follow Anand here: https://twitter.com/viananda
+Follow Mairu here: https://twitter.com/mojaswi
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+Listen this podcast on Spotify: https://spoti.fi/3SQSC9H
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#crypto #nfts #superteam
+Tags: blockchain, web3, Entrepreneur, Entrepreneurs, Entrepreneurship, Metakovan, Twobadour, Crypto investors, Investing in Crypto, Understanding Crypto currrency, Billionaires in crypto, Buying Everyday crypto currency, Buying NFT’s, NFT museum, beeple, beeple nft, beeple nft 69 million, beeple art, metakovan interview, metakovan tamil, metakovan hindi
+
+Title: Crypto, Business, Health Tech and more! | The Vinod Khosla Podcast
+Description: We chat with the legendary founder turned investor Vinod Khosla. He co-founded Sun Microsystems at the age of 27 and then went on to have one of the most prolific venture capital careers in Kleiner Perkins, and now Khosla Ventures. We discuss crypto, AI, emerging areas in health tech, and much more. Enjoy!
+
+Khosla Ventures (KV): https://www.khoslaventures.com/ 
+How to contact KV: To be considered for funding, please email a full business plan to kv@khoslaventures.com. Job seekers interested in positions within KV portfolio companies are encouraged to join their Talent Network and search open roles at jobs.khoslaventures.com. 
+
+Jobs at Helium: https://www.helium.com/careers
+CK-12.org: https://www.ck12.org/student/
+AI Reimagines Lord Of The Rings Characters As Described In Book: https://medium.com/mlearning-ai/ai-re...
+Vinod Khosla's Stanford talk: https://youtu.be/HZcXup7p5-8
+
+
+Follow Vinod Khosla here: https://twitter.com/vkhosla
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+Listen this podcast on spotify: https://open.spotify.com/episode/0TpI8JNcZvCBRd0W8jWC59?si=oPGx0B5ETtWBR7f2ui9SxA
+------------------
+Timestamps:
+0:00 - Gm
+01:22 - Venture assistant v. Venture capitalist
+04:00 - Startups over the last 3 decades
+06:00 - Crypto
+13:26 - Who introduced him to bitcoin?
+14:04 - What Vinod Khosla got wrong about crypto
+20:21 - Khosla Ventures as a DAO
+22:36 - AI
+31:50 - Are we close to living forever?
+34:48 - "Do no harm is bad policy"
+38:19 - Playbook for health tech and governments
+45:18 - Brutal honesty over hypocritical politeness
+47:59 - How Indian companies can make it big globally
+50:35 - Time Management
+51:37 - Parting notes
+51:58 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#crypto #AI #vc
+Tags: blockchain, web3
+
+Title: Future of Media ft. eDAO
+Description: We chat with Anand (formerly the wearer of the Twobadaur exosuit) and Mairu — founders of eDAO about their past lives and current adventures in NFTs, music, and movies. Enjoy!
+------------------
+Get to know what eDAO's all about here: www.edao.co
+unlabel by eDAO Season 1: edao.co/unlabel.html
+
+eDAO Instagram: www.instagram.com/edaohq/
+eDAO Twitter: www.twitter.com/edaoHQ
+
+Is this up your alley? Shoot us an email at connect@edao.co
+Open positions: Community Manager, Programme Manager, Copywriter, Art Director
+
+Follow Anand here: https://twitter.com/viananda
+Follow Mairu here: https://twitter.com/mojaswi
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+Listen this podcast on Spotify: https://open.spotify.com/episode/0oFrD3Ycd5ktwmRm8a3hXf?si=l77ple_5RfGtyAEIOaRz3A
+------------------
+Timestamps:
+0:00 - Gm!
+01:00 - Sony to web3
+02:11 - Aha moment for Mairu
+03:35 - The music business today
+08:08 - Rights on songs
+11:57 - Anand's background
+13:30 - Twobadaur
+15:57 - PeoplePlease NFT
+21:28 - What is eDAO?
+27:48 - NFTs as tickets
+34:24 - Movie studios
+37:43 - What is a good movie NFT?
+40:15 - Co-founder disagreements
+42:36 - What makes for good NFTs?
+46:13 - Exciting projects at eDAO
+48:12 - Hiring
+48:44 - Ritviz ft. eDAO?
+49:47: outro
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#music #nfts
+Tags: blockchain, web3, future of media, NFTs as access
+
+Title: How To Get A Job In Web3
+Description: Presenter Op (a.k.a. Kash) is back with his superb storytelling to guide me and Devaiah on how one can get jobs in web3 and bust some myths around it.
+
+The best resources to help you start earning in web3: https://www.producthunt.com/posts/superteam-talent-guide
+
+Women-led communities:
+PhoenixDAO: https://twitter.com/PhoenixGuildHQ
+Superwomen DAO: https://twitter.com/SuperwomenDAO
+META GAMMA DELTA DAO: https://twitter.com/metagammadelta
+
+Join Superteam Talent Network: https://talent.superteam.fun/?ref=producthunt
+
+Connect with Kash and show your pow: https://twitter.com/kashdhanda
+
+------------------
+Follow Devaiah Bopanna here: https://twitter.com/devaiahPB
+Follow Kash Dhanda here: https://twitter.com/kashdhanda
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+Timestamps:
+0:00 - Gm!
+01:15 - Why should you work in web3?
+02:00 - Reason 1
+03:20 - Reason 2
+04:06 - Reason 3
+05:54 - Reason 4
+07:11 - Reason 5
+08:11 - Myths Busting
+08:18 - Myth 1
+08:57 - Myth 2
+09:49 - Myth 3
+10:30 - Myth 4
+11:08 - Myth 5
+11:38 - How to get a job in web3?
+12:03 - Step 1
+14:44 - Step 2
+16:00 - Cheat codes
+16:15 - Cheat code 1
+17:50 - Cheat code 2
+18:32 - Cheat code 3
+20:18 - Bonus cheat code
+21:49 - Superteam Talent Network!
+22:59 - Johnny lever cameo!
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#web3 #jobs
+Tags: blockchain, web3, web3 jobs, how to get a job in web3, jobs in web3, crypto jobs, blockchain jobs
+
+Title: Hackathon: Solana Summer Camp
+Description: We created a fun ad for the Solana Summer Camp hackathon. Over $5M in prizes and seed funding for the best hackathon projects. We got the most versatile actor to convince you to sign up. 
+
+If you're a developer looking to build or a non-technical professional looking to get into the ecosystem, this could be a great opportunity build or find a team.
+
+Sign up here: https://solana.com/summercamp
+
+Credit: Tanmay Bhat, Devaiah Bopanna, Puneet Chadha, Anirudh More
+Produced by: Eeshita Chinmulgund
+------------------------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: blockchain, web3
+
+Title: xNFTs and Solana Phone ft. Armani
+Description: We chat with Armani Ferrante, founder of Coral about xNFTs, Anchor, Solana phone, and the future of web3 on mobile. Enjoy!
+------------------
+Checkout xNFT: https://twitter.com/xNFT_Backpack
+Checkout Anchor: https://anchor.so/
+Checkout Coral: https://twitter.com/0xCoral
+Follow Armani here: https://twitter.com/armaniferrante
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+Listen to this podcast on Spotify: https://open.spotify.com/episode/6z4K9xeHpNpLXoLWd5CRLM?si=9FSyVNDJRVKzGacyEzqLsA
+------------------
+Timestamps:
+0:00 - Gm Armani!
+01:14 - Armani's red pill moment
+02:45 - First interaction with Solana
+03:38 - Story of Anchor
+05:55 - Ethereum's sharding problem
+09:15 - Modular v. monolithic design in blockchain
+11:49 - Solana scaling
+15:14 - What is xNFT?
+19:43 - Different names considered for xNFTs
+20:53 - What is an executable NFT?
+23:52 - How will upgrades work on xNFT apps?
+24:51 - Interesting app ideas that would come on xNFTs
+28:13 - Where to start developing apps over it?
+29:27 - Solana SMS with xNFTs?
+30:54 - Future of Anchor?
+32:57 - How necessary is executable code on-chain?
+34:07 - Why should I learn Rust?
+37:37 - Engineering manager's role in saving dev resources
+39:26 - Anchor sdk's good docs when?
+42:01 - Coral's future?
+42:42 - Bear market views
+48:27 - Parting notes
+49:05 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal, or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#xNFT #solana #SolanaPhone
+Tags: blockchain, web3, xNFT, Solana Mobile, solana sms, solana, XNFT backpacks, Armani, armani ferrante, Executable NFTs, Solana NFT
+
+Title: Navigating the bear market ft. Joel John
+Description: We chat with Joel John from LedgerPrime. We talk about how building in a bear market, resetting expectations in a bear market, advice for investors, and use cases of web3. Enjoy!
+------------------
+Links in the video:
+- Packy & Zach clip: https://twitter.com/liron/status/1533214640460574720?s=20&t=N9DUn3oWGaFmyHDHj1Mieg
+- Marc Andreessen clip: https://twitter.com/liron/status/1537186589486460928?s=20&t=Bc8EO6_m9UOFDC8Id6VmLQ
+- Grants and web3: https://www.decentralised.co/p/grants-and-web3
+- The future of NFTs: https://www.decentralised.co/p/nfts-not-just-for-trading
+- Observations on Africa: https://www.decentralised.co/p/observations-on-africa
+
+Follow Joel here: https://twitter.com/joel_john95
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+Listen to this podcast on Spotify: https://open.spotify.com/episode/5mjzzimOHGLoUVmviONySN?si=PI0fq0FJQ46TcP9nkljnhw
+------------------
+Timestamps:
+0:00 - Gm Joel
+02:21 - Crypto winter
+04:36 - Advice for founders in a bear market
+07:43 - Resetting expectations in a bear market
+11:18 - Advice for investors
+12:43 - Crypto in India: then and now
+14:15 - web3 use cases
+19:56 - Grants and Web3
+24:37 - Bootstrapping an angel fund
+29:11 - African ecosystem
+31:16 - Future of NFTs
+37:28 - Advice for founders working with Market makers
+42:50 - Parting notes
+43:13 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal, or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#bearmarket #crypto
+Tags: blockchain, web3, bear market, web3 bear market, crypto bear market, crypto
+
+Title: Meet DeFi 2.0 ft. Timeswap
+Description: We chat with the team building timeswap, an exciting DeFi project. We talk about how timeswap works, oracle-less exchanges, the future of DeFi, and Indian crypto founders. Enjoy!
+------------------
+Try out Timeswap: https://timeswap.io/
+Follow Ameeth here: https://twitter.com/0x42069
+Follow Harshita here: https://twitter.com/Harshita_125
+Follow Ricsson here: https://twitter.com/TimelordEth
+Follow Timeswap here: https://twitter.com/TimeswapLabs
+
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+Listen to this podcast on Spotify: https://open.spotify.com/episode/3g38kj0TEkn4JpoYiDALt7?si=eZoq2bsBSFmNw3cZUjO-ZQ
+------------------
+Timestamps:
+0:00 - Gm Timeswap
+01:47 - What is timeswap?
+03:40 - Why timeswap?
+13:11 - Who is Timeswap Intern?
+15:44 - The hardest part about building timeswap
+20:51 - Who is timeswap for?
+25:42 - Pessimism around timeswap
+30:55 - Indian founders moving to Dubai
+32:27 - DeFi's future
+35:27 - Timeswap on other chains?
+36:40 - Advice for Indian founders
+40:24 - Parting notes
+40:58 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#oracleless #defi
+Tags: timeswap, defi, defi 2.0, decentralised finance, web3 defi
+
+Title: The metaverse episode featuring Webaverse, Loomdart & Jin
+Description: We chat with the team building webaverse, an open-source metaverse project. We discuss pseudonymous identities, crypto Twitter, wassies, NFT, and communities. Enjoy!
+------------------
+Webaverse is hiring: https://www.notion.so/webaverse/Webaverse-is-Hiring-8fb49c069c2f450f93ebb911149f21bd
+Checkout Webaverse Twitter: https://twitter.com/webaverse
+Follow Avaer here: https://twitter.com/webmixedreality
+Follow jin here: https://twitter.com/dankvr
+Follow loomdart here: https://twitter.com/loomdart
+
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+Listen to this podcast on Spotify: https://open.spotify.com/episode/7K7t95Dagz6v2jYjKJc3jj?si=XJ9-jhBBSvKnpkNoiPqBrw
+------------------
+Timestamps:
+0:00 - Gm
+01:06 - Meta vs Web3
+07:27 - What if studios adopt web3
+11:38 - loom on webaverse
+13:54 - What is webaverse?
+18:35 - Breathing life into NFTs
+20:33 - Pseudonymous identities
+22:07 - Twitter as an early metaverse?
+23:40 - Digital avatars
+26:53 - Miladys
+28:50 - Virtues that make an open metaverse
+32:09 - Crypto twitter
+34:30 - Wassies
+37:22 - Internet Cinematic Universe
+39:16 - Creators and communities
+44:14 - Webaverse is hiring!
+45:57 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://youtube.com/c/jaydeepdholakia
+Channel Producer: Jaydeep Dholakia ►https://youtube.com/c/jaydeepdholakia
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#webaverse #metaverse #web3
+Tags: metaverse, webaverse, crypto twitter, wassies, pseudonymous identities
+
+Title: Superteam Community Call (Live from Bangalore Hacker House)
+Description: Welcome to our first-ever live community call at Solana Hacker House India edition.
+
+Find work in Web3: https://superteam.fun/find-work-in-web3
+
+Checkout Superteam Talent: https://twitter.com/SuperteamTalent
+Checkout FTX Superteam: https://twitter.com/ftxsuperteam
+------------------ 
+Check out the Superteam Job board: https://superpumped-jobs.pallet.xyz/u/superpumped
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: 
+
+Title: Joe McCann: Modern day crypto investing
+Description: We chat with Joe McCann, a long-time crypto investor, and advisor who has recently launched a fund styled as a technology company. Enjoy the wide ranging conversation!
+
+Checkout Asymmetric: https://twitter.com/goasymmetric
+
+Joe's Telegram group: http://bit.ly/market-mercenaries
+
+Hiring opportunities:
+BetDEX: https://twitter.com/BetDEXLabs
+Blockasset: https://twitter.com/Blockassetco
+Bridgesplit: https://twitter.com/bridgesplit
+Dialect: https://twitter.com/saydialect
+Fast Break Labs: https://twitter.com/vbagame
+Hyperspace: https://twitter.com/hyperspacexyz
+-----------------
+Follow Joe here: https://twitter.com/joemccann
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+Listen to this podcast on Spotify: https://open.spotify.com/episode/0mnRDCgJvT17AVRVRjpivI?si=op5owKEAQNuRfPITfZomSg
+------------------
+Timestamps:
+0:00 - gm
+0:49 - Asymmetric fund
+02:19 - What does Asymmetric do differently?
+08:39 - Joe on India
+10:11 - Joe on risk management
+15:18 - Skin in the game
+19:42 - The future of trust
+22:32 - Joe's NFT collection
+24:16 - How to navigate in the NFT market
+27:26 - FOMO in crypto
+31:29 - Joe's Telegram group
+35:43 - Are we in a bear market?
+40:38 - Trading in crypto
+44:08 - Hiring opportunities!
+47:25 - Bounties the future of hiring
+48:43 - Crypto market is formulate
+51:50 - Redpill for stock traders
+58:23 - When will the crypto market saturate?
+1:02:21 - What is Joe investing in?
+1:05:39 - Parting notes
+1:06:53 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://youtube.com/c/jaydeepdholakia
+Channel Producer: Jaydeep Dholakia ►https://youtube.com/c/jaydeepdholakia
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: 
+
+Title: The Brian Armstrong Podcast
+Description: We interview Brian Armstrong, co-founder, and CEO of Coinbase about his entrepreneurial journey, Coinbase’s history, India launch, and much more. Enjoy this wide-ranging discussion and a big thank you to their team for making this happen!
+
+The Dinner Party Metaphor: https://medium.com/@schauertime/the-dinner-party-metaphor-3b4da1457569
+------------------
+Coinbase: https://www.coinbase.com/
+
+FOLLOW THE PANELLISTS
+Brian: https://twitter.com/brian_armstrong
+Tanmay: https://twitter.com/thetanmay
+Akshay: https://twitter.com/akshaybd
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+Listen to this podcast on Spotify: https://open.spotify.com/episode/60T4pyyCSk4Q8wkgOYlMzP?si=Kh0OnUKCQ86BUpZuimvulw
+------------------
+Timestamps:
+0:00 - Outtakes
+0:31 - GM Brian
+01:06 - Brian on Jugaad
+02:23 - How does Coinbase continue to stay entrepreneurial?
+04:38 - How does Coinbase avoid organizational bureaucracy?
+07:19 - Chief of Staff at Coinbase
+08:46 - Does Brian have a framework for what kind of issues must come to him?
+10:24 - How they are making crypto payments as easy as WhatsApp
+12:11 - Finding the right co-founder
+13:48 - Emilie Choi
+14:34 - Fred Ehrsam
+16:02 - Balaji Srinivasan
+17:20 - Olaf Carlson-Wee
+19:03 - Mission driven culture
+22:18 - Coinbase expanding in India
+23:29 - Keeping up with crypto
+25:03 - CZ & Sam
+25:47 - Brian and self-improvement
+29:15 - 1:1 hacks
+31:29 - 2015 crypto winter
+33:08 - How does listing on Coinbase work?
+37:29 - Coinbase roadmap
+39:42 - Billboard Q&A
+41:50 - Is crypto the new growth stock?
+43:26 - Brian on India taxing crypto
+44:59 - Managing different timezone offices
+46:39 - Brian the crypto guy in the family?
+47:12 - Crypto memes
+48:41 - Parting notes
+49:08 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://youtube.com/c/jaydeepdholakia
+Channel Producer: Jaydeep Dholakia ►https://youtube.com/c/jaydeepdholakia
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: 
+
+Title: The Udi Podcast
+Description: Udi Wertheimer is an OG bitcoiner and crypto twitter comedian. He’s been influential in driving many bitcoin memes into the crypto zeitgeist. We talk to him about bitcoin maximalism, Ethereum, and crypto in general. Enjoy!
+
+Udi's presentation on "Why Tron is the Best" - https://youtu.be/WkVjqOFfKEw
+------------------
+Follow Udi here: https://twitter.com/udiWertheimer
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+Listen to this podcast on Spotify: https://open.spotify.com/episode/6hijRLarnhukx3m6S7eGEQ?si=MoqR7FK7QsK7I3Y2yqHnUg
+------------------
+Timestamps:
+0:00 - Gm Udi!
+01:19 - Who is Udi?
+02:08 - HFSP meme
+04:21 - Countertrading yourself
+06:14 - Udi's bitcoin tweet
+8:28 - Udi trolling maximalists
+12:37 - Why the yuppie elite don't get bitcoin
+17:17 - Maximalism & bitcoin
+23:16 - Difference between saving and investing in Bitcoin
+25:13 - Why Tron is the best blockchain
+29:01 - Udi's ETHBTC clubhouse
+31:35 - ETH: Proof of Stake
+34:26 - Udi at Avalanche Summit
+36:11 - Eric Wall trolling Udi
+38:32 - CT trolling Udi
+40:47 - Advice from Udi
+42:07 - Parting notes
+------------------
+Video edited by Jaydeep Dholakia ► https://youtube.com/c/jaydeepdholakia
+Channel Producer: Jaydeep Dholakia ►https://youtube.com/c/jaydeepdholakia
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions. tt
+Tags: 
+
+Title: The FTX Podcast ft. SBF & Aravind Menon
+Description: FTX is a crypto exchange, built by traders, for traders. FTX Ventures is a $2B fund to invest in equities or tokens, at any check size, at any stage.
+
+More about FTX here: https://ftx.com/
+FTX Ventures: https://ventures.ftx.com/
+FTX Superteam: https://www.ftxsuperteam.com/
+
+Check out the Bankless episode with SBF here - https://www.youtube.com/watch?v=pHrhOg4l4Gw
+
+Listen this podcast on Spotify: https://open.spotify.com/episode/3VMzxNDY3PwGnN5h2n54jn?si=fB5iBO5eTdyLpc2DiQ50VQ
+------------------
+
+FOLLOW THE PANELLISTS
+Sam: https://twitter.com/SBF_FTX
+Aravind: https://twitter.com/ajm_ftx
+
+------------------
+
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+------------------
+
+Chapters:
+00:00 - GM
+01:19 - Billionaire secrets
+03:59 - the FTX Product
+05:20 - Crypto-as-a-Service
+11:15 - Management & Team
+15:58 - How does Sam resolve conflict in the team?
+17:47 - How FTX navigates legal and policy challenges
+20:18 - Chess
+21:45 - Web 2 v. Web3
+23:33 - FTX India
+25:13 - FTX Superteam
+28:22 - Press interview with Aravind
+29:15 - Aravind's thoughts on FTX India
+32:36 - Exciting Indian projects
+33:13 - FTX India launch
+33:54 - Open roles
+34:35 - How was FTX India's launch green lit?
+35:34 - Best and most difficult part of working with Sam
+36:34 - WTF SBF?
+36:59 - Luxury
+37:45 - US regulatory hearing
+38:56 - FTX partnership
+39:40 - Solana Ecosystem
+40:58 - Sam and his typing speed
+42:11 - Are we in the bear market?
+45:21 - Wrapping up
+
+------------------
+
+Video edited by Jaydeep Dholakia ► https://youtube.com/c/jaydeepdholakia
+Channel Producer: Jaydeep Dholakia ►https://youtube.com/c/jaydeepdholakia
+
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: 
+
+Title: The Balaji Podcast
+Description: We talk to Balaji Srinivasan about why he moved from Silicon Valley to India, his optimism for crypto, and why India can play a leadership role in media in the coming years.
+
+Balaji Srinivasan (@balajis) is an angel investor and entrepreneur. Formerly the CTO of Coinbase and General Partner at Andreessen Horowitz, he was also the co-founder of Earn.com (acquired by Coinbase), Counsyl (acquired by Myriad), Teleport (acquired by Topia), and Coin Center.
+------------------
+Submit your entries here and the best ones will get an invite into the DAO: https://superteam.fun/submit-your-work
+
+Listen to this podcast on Spotify: https://open.spotify.com/episode/2LtV1zEMPai4hIEcppe975?si=Fn4wRQtVSk-9CQkOrwnIWQ
+
+Links mentioned in the video:
+- Purpose of Technology: https://balajis.com/the-purpose-of-technology/
+- Douglas Factors: https://wrightusa.com/en/Articles/What-You-Need-to-Know-About-The-Douglas-Factors
+- How India can win-win: https://inc42.com/videos/how-india-win-wins-the-future-2/?itm_medium=website&itm_source=button&itm_campaign=makers-academy&itm_content=tms-articles
+- (Meme video) Feisty Doge video: https://twitter.com/feistydogenfd/status/1437416398016466946?s=21
+- Marx's Labour Theory of value: https://www.econlib.org/library/Enc/Marxism.html#:~:text=Labor%20Theory%20of%20Value,required%20to%20produce%20that%20commodity.
+
+Say Gm from India to Balaji: https://twitter.com/balajis
+
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+Timestamps:
+0:00 - Prologue
+1:41 - Join us!
+3:19 - Intro
+3:28 - Gm Balaji!
+3:48 - Balaji moving to Asia
+6:36 - Balaji extremely bullish on Indians, moderately bullish on India
+12:16 - Why the Indian diaspora is comparable to the American or Chinese State
+14:21 - Regulatory mental cubes
+17:30 - Why do regulations exist?
+20:05 - Regulatory harmonization
+22:37 - How the US is declining
+25:17 - India plays world's best away game
+27:50 - India can be Media Superpower
+35:28 - Crypto Creator
+40:04 - America declining as Media Superpower
+45:48 - You don't need to move to the US anymore
+48:05 - How India Win-wins
+48:21 - The ascending and declining world
+49:18 - Technological and Ideological leapfrogging
+50:40 - A Win-win strategy
+51:48 - Indian in the global economy
+52:28 - Physical and Digital America
+53:48 - The decentralized movement
+55:55 - How does power struggle work in a decentralized world?
+59:42 - Non-aligned movement in a decentralized world
+1:01:27 - India: the bootloader of the free world?
+1:03:02 - Being good in Engineering keeps giving higher leverage
+1:07:13 - India as Media Superpower
+1:10:40 - India becomes the doctor of the world
+1:12:40 - India can achieve self-sufficiency with robotic autarky
+1:13:33 - India as Astro launchpad for the world
+1:14:25 - India can build next postwar order
+1:15:41 - Summing up how India can Win-win
+1:16:34 - Crab in the bucket mentality
+1:19:00 - Indian cricket team example
+1:20:26 - Crab in the bucket mentality in America
+1:21:01 - Wealth can be created
+1:26:22 - Takeaways
+1:26:58 - What should content be around?
+1:28:50 - Task for the Video!
+1:29:48 - Wagmi!
+1:30:06 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://youtube.com/c/jaydeepdholakia
+Channel Producer: Jaydeep Dholakia ►https://youtube.com/c/jaydeepdholakia
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal, or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: Tanmay, balaji, Balaji Srinivasan, akshay bd, tanmay bhat, balaji on web3, balaji on india, balaji india
+
+Title: Lily Liu: Earning crypto and other life lessons
+Description: We had a great time chatting with Lily Liu, founding team, Osmosis; advisor to Solana Foundation and formerly the CFO of earn.com. She’s one of the most fun and fiercely intelligent people in crypto and we enjoyed this wide-ranging conversation about crypto, life, China, India, and everything in between.
+------------------
+Follow Lily: https://twitter.com/calilyliu
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+Our members put together the basics of web3: https://groundzero.superteam.fun/
+
+Listen to this podcast on Spotify here: https://open.spotify.com/episode/7EAswfX0RWFyuaflAcl1iL?si=nRiYM2iITQ6ftd2aaKlsGw
+------------------
+Timestamps:
+0:00 - Gm Lily!
+0:43 - What do you do, Lily?
+3:10 - Lily and crypto
+7:04 - China’s road to capitalism
+9:21 - Trust, wealth, and reputation
+13:05 - Crypto in a low trust environment
+15:56 - zero-sum mentality with Crypto
+23:26 - Opportunities in crypto
+26:58 - Media and Crypto
+29:02 - Earn.com
+38:26 - Everything is a math problem
+42:29 - Osmosis
+50:10 - Solana and Osmosis
+50:57 - More on Media and Crypto
+54:32 - What happens to countries who don't adopt crypto
+1:01:06 - India and crypto
+1:04:56 - Parting notes
+1:05:46 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://youtube.com/c/jaydeepdholakia
+Channel Producer: Jaydeep Dholakia ►https://youtube.com/c/jaydeepdholakia
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal, or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: earn.com, lily liu, tanmay, tanmay bhat
+
+Title: Why crypto VCs are betting big on India
+Description: We talk to Matthew Graham, managing partner of Sino Global about his investing journey -- and betting big on FTX and Solana in their infancy. He is now expanding the scope of the fund to India and has been incredibly bullish about the growing web3 ecosystem here. Enjoy!
+------------------
+Checkout Sino Global: https://twitter.com/sinoglobalcap
+Follow Matthew here: https://twitter.com/mattysino
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+
+Listen to this podcast on Spotify: https://open.spotify.com/episode/5QDuArwIlbacnhSpY0aUih?si=iTMMRq7vSLiUXL-hXcWbfA
+------------------
+Timestamps:
+0:00- Hi!
+0:33 - How does one make money in crypto?
+2:10 - Finding Solana
+7:55 - Finding FTX
+14:36 - Matthew's unique energy
+15:52 - Traditional VCs vs Internet VCs
+23:08 - $1000 to invest in crypto
+27:43 - Matthew bullish on India
+31:27 - VC in India underdeveloped
+33:49 - Sino Global for India
+36:22 - Announcement for Indian entrepreneurs!
+37:54 - Rapid fire questions
+39:12 - Matthew's view on market for next few months
+41:02 - Top Sino investments
+42:15 - Parting notes
+42:51 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://youtube.com/c/jaydeepdholakia
+Channel Producer: Jaydeep Dholakia ►https://youtube.com/c/jaydeepdholakia
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal, or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: sino, sino global capital, tanmay, tanmay bhat, superteam, web3, solana, matthew
+
+Title: Kanav Kariya: Intern to President of Jump Crypto
+Description: We interview Kanav Kariya, President of Jump Crypto — who joined the firm 7 years ago as an intern and worked his way to become President and run a 100+ person team today. How did a Mumbai boy make his way into an East Coast prop trading firm? Find out in this interview.
+------------------
+Jump Crypto is hiring: https://boards.greenhouse.io/jumpcrypto
+
+Checkout Jump Crypto: https://jumpcrypto.com/
+Follow Kana here: https://twitter.com/KariyaKanav
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+Listen to this podcast on Spotify: https://open.spotify.com/episode/5NOWxNRTfjy0g3pVff8TkZ?si=KerDoRm2ShSbOZICoqPAxg
+------------------
+Timestamps:
+0:00 - Introducing Kanav
+2:26 - How Kanav joined Jump
+3:08 - Crypto Redpill
+3:59 - Difference between crypto and traditional trading
+6:15 - What do they do at Jump crypto?
+7:09 - Cultural shift for East coast companies
+9:01 - Wormhole crypto
+10:24 - How Jump Trading decided to go crypto
+11:56 - How Kanav managed to execute a 0 to 1 project on the East Coast
+14:49 - The oracle problem in crypto
+22:58 - Kanav's pov on world choosing blockchain over FTA
+25:56 - Difference in mindset in India and US
+27:53 - Kanav's advice to Indian developers
+31:36 - Jump Crypto is hiring!
+32:55 - Parting notes
+33:23 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://youtube.com/c/jaydeepdholakia
+Channel Producer: Jaydeep Dholakia ►https://youtube.com/c/jaydeepdholakia
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal, or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: jump trading, jump crypto, crypto trading, tanmay bhat, akshay bd, Kanav Kariya
+
+Title: Chingari: Going Web2 to Web3
+Description: We talk to Sumit Ghosh, co-founder and CEO of Chingari about their big decision of to pivot Chingari from a Web2 to Web3 company. We talk about what it took to steer that ship, how the creator economy will evolve with Web3 tools, and the future of Chingari.
+
+NOTE: We do NOT endorse the tokens of projects we feature here. This is for informational purposes only and our goal is to kindle creativity on the possibilities in web3 and showcase job opportunities for people looking to work in the space. This channel primarily is for developers and builders -- not investors. DYOR.
+------------------
+Follow Sumit here: https://twitter.com/sumitgh85
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+Listen to this podcast's audio version: https://open.spotify.com/episode/63sXWkxRIbX5zbY0C8STMU?si=b1nzp015S26E8a6dQEMVzA
+------------------
+Timestamps:
+0:00 - Introducing Sumit
+1:02 - What does going from Web2 to Web3 mean?
+3:02 - Investors' perspective
+4:49 - How will content creators earn?
+6:12 - What is a public sale?
+7:24 - Chingari on Solana
+9:50 - Staking creator coins
+12:26 - How did the crypto community receive it?
+16:32 - Chingari v. TikTok?
+17:47 - Creators earning
+19:13 - Creator economy features in Chingari
+22:18 - Village Cooking Channel
+24:01 - Difference between Web2 and Web3 interactions
+25:05 - How small creators around the world can grow in Web3
+26:06 - Chingari: Open Roles
+26:58 - Parting Notes
+------------------
+Video edited by Jaydeep Dholakia ► https://youtube.com/c/jaydeepdholakia
+Channel Producer: Jaydeep Dholakia ►https://youtube.com/c/jaydeepdholakia
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: Chingari, web3, sumit ghosh
+
+Title: Is this the best web3 wallet?
+Description: Crypto products are infamous for bad UI/UX. Phantom is one of the best on-chain wallets we’ve used. Today, we interview the co-founder and CEO Brandon Miller on what it takes to build web3 products with the finish of web2.
+------
+Download Phantom now: https://phantom.app/
+Follow Brandon here: https://twitter.com/BChillman
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+Listen audio version of this podcast: https://open.spotify.com/episode/17rTgWvKYn46vJLNzNzTGk
+------------------
+Timestamps:
+0:00 - Introducing Brandon
+0:25 - Phantom's growth
+1:21 - Phantom on mobile
+1:52 - How to get a wallet right on mobile
+2:22 - Brandon's journey
+5:26 - What made them choose Solana?
+8:21 - Phantom future
+9:15 - Wallets as a better investment
+12:50 - Phantom on multichain
+13:41 - Social recovery on Phantom
+14:48 - Upcoming product features
+15:40 - Phantom hiring!
+16:13 - Garry Tan
+16:59 - Role of VC in Web3
+18:55 - Phantom user base
+19:30 - Project 100K and Web3 visa
+21:57 - Parting notes
+22:37 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://youtube.com/c/jaydeepdholakia
+Channel Producer: Jaydeep Dholakia ►https://youtube.com/c/jaydeepdholakia
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: phantom wallet, web3, crypto wallet
+
+Title: Coinvise: Communities and Social Tokens
+Description: We talk to Jenil, CEO and builder at Coinvise. Coinvise is a platform that allows communities to easily mint and distribute social tokens for their internal economies. 
+
+We've included a task towards the end. If you'd like to get access to our discord,  please write an in-depth blog post about why communities like Superteam should have a token (or not) and what the best practices should be.
+
+You may submit your blogposts here:
+
+https://airtable.com/shr3nWXLBIbgOJc1T
+
+------------------
+Checkout coinvise: https://www.coinvise.co/
+Follow Jenil here: https://twitter.com/0xjenil
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+Timestamps:
+0:00 - Introducing Coinvise
+1:23 - Journey of Coinvise with Social Tokens
+2:39 - Understanding Coinvise as a product
+3:46 - Why a social token has value?
+5:23 - Examples of good community tokens
+7:04 - How more currencies/tokens create chaos
+8:31 - Tanmay's creator coin?
+8:50 - Alex Masmej implementation of tokens
+9:31 - How social tokens could help creators?
+10:27 - How does Coinvise deal with securities law
+11:15 - Coinvise on creator charts
+12:01 - Life as a metagame
+14:13 - Thoughts on pseudonymous identity wallets
+16:04 - How Coinvise designed its UI
+19:08 - Longterm usecase for NFTs 
+19:42 - When Coinvise on solana?
+20:52 - Tokens as decentralized emails
+23:17 - Task for this Episode
+24:22 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://youtube.com/c/jaydeepdholakia
+Channel Producer: Jaydeep Dholakia ►https://youtube.com/c/jaydeepdholakia
+------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal, or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: coinvise, DAOs, Tokens
+
+Title: Grape Network: Are Gated Communities the Future?
+Description: We talk to Dean Pappas, founder of the Grape network, a tool that helps set up gated communities with NFTs/social tokens. We discuss how gated communities that are ideologically aligned and financially incentivised could open the frontiers of how we work and live in the future.
+---
+Checkout Grape Network Discord: https://discord.com/invite/greatape
+Follow Dean here: https://twitter.com/_Dean_Machine
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+-------------------------------------
+Timestamps:
+0:00 - Introducing Grape Network
+0:52 - How did Grape Network start?
+2:44 - Best way to use tokens in community
+4:04 - Examples of output oriented DAOs
+7:12 - Pros: Conventional orgs and Cons: Decentralized org
+10:42 - Going back to the pre-civilized era
+14:50 - Grape community & building Grape
+19:02 - Discord and Web3
+21:44 - Social existence on the ledger
+23:00 - What can people do on Grape and it's future
+24:41 - Communities on Grape Network
+28:59 - How can anyone join Grape Network?
+31:22 - How to keep the purpose alive in a community?
+35:35 - Task for this video!
+36:43 - Outro
+------------------
+Video edited by Jaydeep Dholakia ► https://youtube.com/c/jaydeepdholakia
+Channel Producer: Jaydeep Dholakia ►https://youtube.com/c/jaydeepdholakia
+------------------
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: grape network, solana, Dean pappas
+
+Title: Is Solana the future?
+Description: We talk to Raj Gokal and Anatoly Yakovenko, co-founders of Solana Labs about the Solana's past, present, and future, their optimism for India, and how crypto will evolve over the coming years.
+
+
+Solana India Hackathon video: https://twitter.com/solana_india/status/1419917201641934849?s=20
+
+Join Solana India Hackathon now:
+Apply and prizes: https://buildingoutloud.solana.com
+Discord: https://discord.com/invite/MJCmWDTTP8
+
+
+Links mentioned in the video:
+Symmetry Protocol - https://symmetry-fi.medium.com/introducing-symmetry-a-decentralized-crypto-index-protocol-2c757413842e
+-------------------------------------
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Share your thoughts with us:
+Tanmay: https://twitter.com/thetanmay
+Akshay: https://twitter.com/akshaybd
+-------------------------------------
+Timestamps:
+0:00 - Intro
+0:23 - Introducing Raj
+1:14 - Solana's journey from pow to pos
+5:16 - Ethereum's proof of stake
+8:14 - Criticism on Solana not having ideological purity
+13:21 - contemporary web 2 experiences which could happen in web 3
+16:00 - How does Solana draw a line between top-down vs bottom-up approach
+18:35 - Will Solana will not be able to bootstrap community just like Bitcoin and Ethereum
+22:24 - What things are working for developers in Solana?
+25:07 - Why is it hard to build on Solana?
+28:43 - Developers focusing on better design and user experience on Solana
+33:08 - Future of investing in the whole ecosystem
+35:21 - Uniswap vs Sushiswap
+39:03 - Neon (Ethereum smart contracts scaled by Solana)
+41:20 - Solana multi-chain compatibly
+44:12 - The Karan Johar question: Ranking different chains
+50:40 - Transaction vs Settlement
+52:59 - India Hackathon
+55:14 - Decentralized on-chain Uber
+ 59:17 - Superpumped hackathon prize!
+1:00:18 - Join Hackathon Discord
+-------------------------------------
+Video edited by Jaydeep Dholakia ►https://www.youtube.com/user/jaydeepdholakia
+-------------------------------------
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: solana, solana hackathon, india hackathon
+
+Title: How DAOs are changing the way we work!
+Description: Jack Du Rose is the co-founder and CEO of colony.io. In this episode, we discuss DAOs, the future of organizations, and creative work. Enjoy this wide-ranging conversation!
+
+Links mentioned in the video:
+
+What is a DAO presentation: [Coming soon]
+
+DAO Model Law - https://medium.com/coala/the-dao-model-law-68e5360971ea
+
+Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Share your thoughts with us:
+Jack Rose: https://twitter.com/jackdurose
+Tanmay: https://twitter.com/thetanmay
+Akshay: https://twitter.com/akshaybd
+-------------------------------------
+Timestamps
+0:00 - introducing Jack
+0:42 - What is a DAO
+3:25 - Why do we need DAO?
+5:27 - Most common use case of DAO
+8:57 - How will DAO imapact carrers? and how will people work?
+12:39 - What is Colony?
+15:17 - Travelling salesman problem
+17:44 - How does communication happen in DAO?
+19:56 - Difference between company and DAO
+22:58 - Status hierarchy in DAO
+24:32 - How can Colony help a company convert it's department into DAO?
+27:29 - Is there a way for people to accept payment and slit it in groups in DAOs?
+37:16 - Top features of Colony and who is it useful for
+37:44 - Opportunity for developers!
+38:39 - Regulatory issues around DAOs
+42:35 - Understand What is DAO better
+43:05 - Colony is Hiring!
+44:40 - Outro
+-------------------------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: dao, colony, jack rose, jack rose colony, Decentralized Autonomous Organization, dao crypto, dao blockchain, superpumped
+
+Title: Crypto for Newbies: Where to start with Preethi Kasireddy
+Description: Preethi Kasireddy is an entrepreneur, writer, engineer, and investor. She was an early engineer at Coinbase, later worked at a16z, and then quit one of the most sought-after jobs to teach herself coding and start a company. Today, she teaches a free introduction to the crypto course and invests in ambitious founders.
+
+Preethi's free course (must check it out): https://www.preethikasireddy.com/post/come-learn-cryptocurrency-with-me-for-free
+
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Share your thoughts with us:
+Tanmay: https://twitter.com/thetanmay
+Akshay: https://twitter.com/akshaybd
+-------------------------------------
+Timestamps:
+
+0:00 - introducing Preethi
+01:02 - Preethi's journey into crypto
+07:06 - What made her jump into crypto?
+12:17 - Change in people entering the crypto world
+14:43 - Her answer on "Why should I learn crypto?"
+16:50 - How to decide on who to cater to first to get more people in crypto?
+19:16 - Superpumped scholarship
+21:36 - Why would the state be ok with crypto?
+25:00 - Preethi's take on portfolio construction
+27:01 - How crypto helps in finding your voice
+29:32 - Projects which Preethi is interested in
+30:55 - How long does it take to make it in crypto?
+33:22 - How can one make a transition into crypto without making mistakes done in traditional finance?
+36:00 - Crypto's impact on Preethi's life
+37:16 - Why people at the top want you to invest in the index!
+39:21 - How crypto makes you rethink everything again
+43:40 - Preethi's course, Superpumped scholarship, ending note
+45:55 - Outro
+-------------------------------------
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: Preethi Kasireddy, superpumped, crypto, crypto india
+
+Title: How two 20 year olds built a DeFi protocol that manages $6B
+Description: We speak to Sowmay Jain (23) and Samyak Jain (21), brothers and co-founders of InstaDapp. They recount their journey — hacking together a product for the ETH India Hackathon in 2018 to building the Instadapp of today which has over $5B in locked value.
+
+Follow them here:
+
+Sowmay: https://twitter.com/sowmay_jain
+Samyak: https://twitter.com/smykjain
+
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Share your thoughts with us:
+Tanmay: https://twitter.com/thetanmay
+Akshay: https://twitter.com/akshaybd
+-------------------------------------
+Timestamps:
+0:00 - Introducing Samyak and Sowmay
+0:51 - Why is InstaDaap needed?
+1:53 - What is middleware?
+4:57 - Opportunities for Fintech startups and DeFi
+5:57 - How did they start?
+8:17 - How are they different from traditional finance?
+13:19 - Who trusts Instadapp with their money?
+13:51 - What their parents think about their work
+14:53 - How do investors react to Instadapp?
+16:27 - Difference between building company v. protocol
+20:32 - How can someone contribute to protocols?
+24:46 - Their vision for Defi ecosystem
+27:17 - Is the future multichain?
+29:02 - Their views on Solana
+30:49 - Recommendations to engineers
+33:53 - How did they get into crypto?
+35:44 - Instadapp team and hiring
+37:55 - An exciting announcement
+39:54 - Indian crypto ecosystem
+41:32 - Wrapping up and outro
+-------------------------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: instadaap, defi, protocol, indian protocol, defi protocol
+
+Title: The Great Online Game with Packy McCormick
+Description: We speak to Packy McCormick (@packyM) of NotBoring about his essay, the Great Online Game. It is an essay about how the internet has turned us all into video game players creating our own games and prizes — turning everything from media, jobs, and investments into a big 24/7 game. In his words: 
+
+“When people ask me my title, I don’t have a good answer. Writer? Founder? Investor? Some guy with a newsletter? They all fit, and I’m sure I’ll add more over time. Playing the Game is about having fun and opening doors that you didn’t even know existed. It’s a lot of work, but it’s fun work, with exponential upside and compounding returns. Go play.”
+
+Please check out his two-part essay on his topic. If you’re on the internet looking to do more than doom scrolling, they’re very valuable reads.
+
+The Great Online Game Essay: https://www.notboring.co/p/the-great-online-game
+
+The Cooperation Economy: https://www.notboring.co/p/the-cooperation-economy-
+
+Optional Reads and mentions:
+
+Josh Buckley - Identifying Legendary Start-ups: https://podcasts.apple.com/is/podcast/josh-buckley-identifying-legendary-start-ups-invest/id1154105909?i=1000518805939
+
+Finite and Infinite Games by James Cause: https://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713
+
+Pesto tech: https://pesto.tech/
+-------------------------------------
+
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Share your thoughts with us:
+Tanmay: https://twitter.com/thetanmay
+Akshay: https://twitter.com/akshaybd
+
+-------------------------------------
+Timestamp:
+
+0:00 - Introducing Packy
+1:37 - Why does he call it a Game?
+4:22 - Where does the Game begin?
+5:21 - Why should one read Packy's essay?
+7:43 - What is the videogame?
+8:18 - What is the great online game?
+9:21 - Is an objective necessary while playing the game?
+14:19 - Why is individualism not awarded in the game?
+16:42 - How to keep game simple?
+19:33 - Relationship between Great online game and institutions
+24:54 - Individuals vs Institutions
+27:49 - "Meet The Players"
+33:24 - 3 Superpowers to play the game
+35:24 - What happens to people who don't play the game?
+36:57 - Advice for someone who is starting their career
+39:23 - How does crypto supercharge the game?
+46:51 - Crypto takes out the middle management
+52:23 - "How to Play the Game"
+55:26 - 4 elements of successful game design
+1:00:51 - Startups Packy is excited about
+1:01:40 - Wrapping up
+-------------------------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: the great online game, packy, Packy McCormick
+
+Title: How this Indian team bootstrapped a $200M Ethereum protocol
+Description: We talked to the founders of Ethereum Push Notification Service (EPNS) -- Harsh Rajat and Richa Joshi. We talked about their journey into crypto, what EPNS is building, and much more.
+
+Check out the Superteam Job Board to see open roles at EPNS: https://superteam-jobs.pallet.com/jobs
+
+You can follow Harsh and Richa on Twitter:
+- https://twitter.com/Riijo
+- https://twitter.com/harshrajat
+
+Share your thoughts with us:
+Tanmay: https://twitter.com/thetanmay
+Akshay: https://twitter.com/akshaybd
+-------------------------------------
+Timestamp:
+
+0:00- Introduction
+1:56- What is EPNS?
+4:38- Difference between the centralized and decentralized communication protocol
+8:23- How do you make the rules in decentralized communication protocol?
+9:40- Where do we need notifications in dapps?
+13:18- Other use cases where notifications are helpful
+17:56- Does it become a social feed for notifications?
+19:10- Can we have centralized notification experience in a decentralized way
+21:22- How did they come up with this problem
+22:28- When did you first time heard about Bitcoin?
+25:34- Got to know about Bitcoin through AIB
+26:27- How did they meet? and how did EPNS happen?
+29:19- How they got help from the Ethereum community
+38:51- Does Vitalik like EPNS?
+39:39- How can anyone launch a crypto project?
+40:18- $17,000 grant from Gitcoin
+43:42- What is PUSH token and how is it valuable?
+50:11- Their views on Ethereum scaling debate
+52:28- Their personal portfolio
+53:53- What will happen to EPNS in the bear market?
+55:42- Other protocols which Ethereum needs?
+59:25- Where can someone learn about Web 3.0?
+1:02:48- Pitch for devs on why they should come to web 3.0
+1:05:54- How Web 3.0 is changing things
+1:07:31- Akshay's pitch for web 3.0
+1:10:18- EPNS is hiring
+1:11:16- Outro
+-------------------------------------
+
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: epns, ethereum push notification service, Blockchain, Ethereum, Protocol, SuperPumped
+
+Title: Privacy & the Future of Blockchains
+Description: We discuss Zero-knowledge proof, and how it is helping make blockchain transactions more private!
+
+
+References: 
+
+A16Z: https://youtu.be/3NL0ThdvWMU
+ZCash Ceremony: https://m.youtube.com/watch?v=D6dY-3x3teM
+
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+Disclaimer:
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+Tags: 
+
+Title: India’s first unicorn protocol: Matic a.k.a Polygon
+Description: In this video, we talk with the founders of India's first unicorn protocol Polygon, Jaynti, and Sandeep. We discuss their journey, hardships, advice for Indian founders, and more. Enjoy
+
+Follow Jaynti here: https://twitter.com/jdkanani
+Follow Sandeep here: https://twitter.com/sandeepnailwal
+
+You can donate to the Crypto India Relief Fund here: https://twitter.com/sandeepnailwal/status/1385968554508488709?s=20
+
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+Timestamp:
+
+0:00 - Intro
+0:20 - Introducing Matic
+3:48 - Matic Founders
+6:56 - How did they get this idea?
+11:19 - What is Blockchain Trilemma?
+14:50 - Simplified analogy to understand Matic
+17:56 - Projects currently using Matic
+21:05 - Why is Matic winning?
+26:12 - What problems should Indian Engineers work on?
+33:10 - Their Experience with Vitalik
+36:03 - How the Ethereum community is best!
+38:54 - Sandeep's Covid relief initiative
+43:42 - How can Indian engineers get involved with Ethereum
+49:20 - How can non-tech people get involved with Ethereum
+51:27 - What do they think about other chains?
+55:29 - At what price did they buy Bitcoin?
+56:00 - Recommendation for someone who wants to start investing
+56:51 - What is their portfolio?
+1:00:36 - Advice for young investors
+1:07:03 - Outro
+------------------
+Disclaimer
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal, or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#polygon #matic #ethereum
+Tags: 
+
+Title: What is the future of Ethereum? ft. Mira Christanto
+Description: In this video, we talk with Mira, about how Ethereum Layer 2 works, what zk rollups, sharding, and more. Enjoy
+
+Check out the links mentioned in this video:
+Ethereum scaling solutions (Messari) — https://messari.io/article/ecosystem-of-ethereum-scaling-solutions
+Bankless Digital nations - https://newsletter.banklesshq.com/p/a-bankless-nation-part-i
+Messari Crypto Asia Report — https://messari.io/asia-crypto-landscape
+Your Next Government — tomwbell.com/yng.html
+Why Tron is the best by Udi — https://m.youtube.com/watch?v=WkVjqOFfKEw
+
+Follow Mira Christanto here: https://twitter.com/asiahodl
+
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+Disclaimer
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal, or tax advice. Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#ethreum #staking #layer2
+Tags: 
+
+Title: 🔴SuperPumped Live
+Description: You can follow us on Twitter Instagram etc. at @akshaybd and @tanmaybhat but honestly we would just prefer it if you subscribed 
+
+Also remember, leverage = danger
+Tags: 
+
+Title: Dealing With The Crypto Crash | Superpumped Live Highlights - 1
+Description: We just hung out and did a Q&A. Here are the highlights.
+
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+Video edited by Jaydeep Dholakia ► https://twitter.com/DholakiaJaydeep
+Channel Producer: Jaydeep Dholakia ►https://twitter.com/DholakiaJaydeep
+------------------
+Disclaimer
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal, or tax advice. ​Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#crypto #highlights
+Tags: 
+
+Title: This Crypto Token Made Him A Billionaire
+Description: We interview G, an engineer who created his own token called Pump on the Binance Smart Chain (mostly) as a joke! Despite asking people to not buy it, they still did -- turning him into a crypto billionaire in just twenty minutes!
+
+Check out the Superteam Job board: https://superteam-jobs.pallet.com/jobs
+Superteam Twitter: https://twitter.com/SuperteamDAO
+------------------
+Video edited by Perception Media https://instagram.com/weareperceptionmedia/
+------------------
+Disclaimer
+The information contained herein is for informational and entertainment purposes only. Nothing herein shall be construed to be financial, legal, or tax advice. ​Trading cryptocurrencies poses a considerable risk of loss and viewers are advised to do their own research before making any decisions.
+
+#crypto #billionaire
+Tags: 
+

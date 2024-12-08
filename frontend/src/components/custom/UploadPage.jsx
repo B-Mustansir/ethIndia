@@ -65,6 +65,12 @@ export function UploadPage() {
       );
 
       console.log(response);
+      localStorage.setItem("yt_data",response.data.yt_data);
+      localStorage.setItem("twitter_data",response.data.twitter_data);
+      localStorage.setItem("video_link",response.data.video_link);
+      // console.log(response.data.twitter_data);
+      // localStorage.setItem("yt_data",JSON.stringify(response.data.yt_data));
+      // localStorage.setItem("twitter_data",JSON.stringify(response.data.twitter_data));
 
 
     } catch (error) {

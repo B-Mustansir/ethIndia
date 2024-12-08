@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "../ui/tabs";
 import { Button } from "../ui/button";
 import { Card, CardContent } from "../ui/card";
@@ -12,7 +12,24 @@ export function Draft() {
   const [youtubeTitle, setYoutubeTitle] = useState("My Awesome Video");
   const [youtubeDescription, setYoutubeDescription] = useState("This is a great video about...");
   const [activeTab, setActiveTab] = useState("twitter");
+  const [yt_data,setyt_data] = useState(null);
+  const [twitter_data,settwitter_data] = useState(null);
+  const [video_link,setvideo_link]=useState('');
+  useEffect(()=>{
   
+    let yt_data_cp=JSON.parse(localStorage.getItem("yt_data"));
+  let twitter_data_cp=JSON.parse(localStorage.getItem("twitter_data"));
+  let video_link_cp=localStorage.getItem("video_link");
+  setyt_data(yt_data_cp);
+  settwitter_data(twitter_data_cp);
+  setvideo_link(video_link_cp);
+
+
+
+  },[])
+  // console.log(yt_data);
+  // console.log(twitter_data);
+
 
   const applyStyle = (style) => {
     let newText = text;
@@ -113,7 +130,7 @@ export function Draft() {
                   {/* Text Input */}
                   <textarea
                     className="w-full h-40 mt-6 p-4 bg-black text-white border border-white rounded-xl focus:outline-none focus:ring-2 focus:ring-white placeholder-white placeholder-opacity-50 resize-none"
-                    value={text}
+                    value={twitter_data && twitter_data.tweet}
                     onChange={(e) => setText(e.target.value)}
                     placeholder="What's happening?"
                   />
@@ -159,7 +176,7 @@ export function Draft() {
                       </div>
                       <div className="flex-1">
                         <h3 className="font-bold text-white text-lg">User</h3>
-                        <p className="text-white mt-2">{renderStyledText(text)}</p>
+                        <p className="text-white mt-2">{twitter_data && twitter_data.tweet}</p>
                       </div>
                     </div>
                   </div>
@@ -243,7 +260,7 @@ export function Draft() {
                   {/* YouTube Title Input */}
                   <input
                     className="w-full mt-6 p-4 bg-black text-white border border-white rounded-xl focus:outline-none focus:ring-2 focus:ring-white placeholder-white placeholder-opacity-50"
-                    value={youtubeTitle}
+                    value={yt_data && yt_data.title}
                     onChange={(e) => setYoutubeTitle(e.target.value)}
                     placeholder="Enter video title..."
                   />
@@ -251,7 +268,7 @@ export function Draft() {
                   {/* YouTube Description Input */}
                   <textarea
                     className="w-full h-40 mt-6 p-4 bg-black text-white border border-white rounded-xl focus:outline-none focus:ring-2 focus:ring-white placeholder-white placeholder-opacity-50 resize-none"
-                    value={youtubeDescription}
+                    value={yt_data && yt_data.description}
                     onChange={(e) => setYoutubeDescription(e.target.value)}
                     placeholder="Enter video description..."
                   />
@@ -263,9 +280,9 @@ export function Draft() {
                 <CardContent className="p-6">
                   <h3 className="font-semibold mb-4 text-white text-lg">Styled Preview</h3>
                   <h4 className="font-bold text-white mb-2">Title:</h4>
-                  <p className="text-white mb-4">{renderStyledText(youtubeTitle)}</p>
+                  <p className="text-white mb-4">{renderStyledText(yt_data && yt_data.title)}</p>
                   <h4 className="font-bold text-white mb-2">Description:</h4>
-                  <p className="text-white">{renderStyledText(youtubeDescription)}</p>
+                  <p className="text-white">{renderStyledText(yt_data && yt_data.description)}</p>
                 </CardContent>
               </Card>
             </div>
@@ -294,15 +311,15 @@ export function Draft() {
                     </div>
                   </div>
                   <div className="border border-white rounded-xl p-6 bg-black">
-                    <div className="aspect-video bg-white rounded-lg mb-4"></div>
-                    <h3 className="font-bold text-white text-lg mb-2">{renderStyledText(youtubeTitle)}</h3>
+                    <div className="aspect-video bg-white rounded-lg mb-4"><video src={video_link}></video></div>
+                    <h3 className="font-bold text-white text-lg mb-2">{renderStyledText(yt_data && yt_data.title)}</h3>
                     <div className="flex items-start gap-4">
                       <div className="w-10 h-10 rounded-full bg-white flex items-center justify-center text-black font-bold text-sm">
                         C
                       </div>
                       <div className="flex-1">
                         <h4 className="font-semibold text-white">Channel Name</h4>
-                        <p className="text-white mt-2">{renderStyledText(youtubeDescription)}</p>
+                        <p className="text-white mt-2">{renderStyledText(yt_data && yt_data.description)}</p>
                       </div>
                     </div>
                   </div>

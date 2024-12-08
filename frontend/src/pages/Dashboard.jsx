@@ -16,7 +16,7 @@ export default function Dashboard() {
     <div className="flex h-screen bg-black text-white">
       <Sidebar setActivePage={setActivePage} />
 
-      <main className="flex-1 p-6 overflow-auto">
+      <main className="flex-1 p-6">
         <motion.div
           key={activePage}
           initial={{ opacity: 0, y: 20 }}
