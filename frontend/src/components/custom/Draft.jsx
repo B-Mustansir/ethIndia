@@ -5,27 +5,34 @@ import { Card, CardContent } from "../ui/card";
 import { Bold, Italic, Underline, Link2, ImageIcon, Smile, Smartphone, Monitor, Copy, Calendar, Send } from 'lucide-react';
 
 export function Draft() {
-  const [text, setText] = useState("Hello World");
+
+  const yt_demo={
+    title:"The $40 Million Dilemma: MrBeast's Next Big Move!",
+    description:"Creating YouTube videos is one thing, but what happens when you want to take it to the next level with a streaming series? MrBeast dives into the staggering costs, creative challenges, and whether he'd fund a $40M+ project himself. 🚀💸 Would you make the leap? Let us know in the comments! #MrBeast #ContentCreation #StreamingSeries"
+    
+  }
+
+  const tweet_demo={
+    tweet:"Ever wondered what it takes to level up from YouTube to a full-blown streaming series? 💰🎥 Here's @MrBeast talking about the insane costs and decisions behind creating next-level content. Would you take the $40M+ leap? 🤔 #ContentCreation #MrBeast"
+  }
+  const [text, setText] = useState(tweet_demo.tweet);
   const [isBold, setIsBold] = useState(false);
   const [isItalic, setIsItalic] = useState(false);
   const [isUnderline, setIsUnderline] = useState(false);
   const [youtubeTitle, setYoutubeTitle] = useState("My Awesome Video");
   const [youtubeDescription, setYoutubeDescription] = useState("This is a great video about...");
   const [activeTab, setActiveTab] = useState("twitter");
-  const [yt_data,setyt_data] = useState(null);
-  const [twitter_data,settwitter_data] = useState(null);
-  const [video_link,setvideo_link]=useState('');
+  const [yt_data,setyt_data] = useState(yt_demo);
+  const [twitter_data,settwitter_data] = useState(tweet_demo);
+  const [video_link,setvideo_link]=useState('https://res.cloudinary.com/dwgdjgeor/video/upload/v1733730746/gegjm6umgifkb4pqfbvv.mp4');
   useEffect(()=>{
   
-    let yt_data_cp=JSON.parse(localStorage.getItem("yt_data"));
-  let twitter_data_cp=JSON.parse(localStorage.getItem("twitter_data"));
-  let video_link_cp=localStorage.getItem("video_link");
-  setyt_data(yt_data_cp);
-  settwitter_data(twitter_data_cp);
-  setvideo_link(video_link_cp);
-
-
-
+  //   let yt_data_cp=JSON.parse(localStorage.getItem("yt_data"));
+  // let twitter_data_cp=JSON.parse(localStorage.getItem("twitter_data"));
+  // let video_link_cp=localStorage.getItem("video_link");
+  // setyt_data(yt_data_cp);
+  // settwitter_data(twitter_data_cp);
+  // setvideo_link(video_link_cp);
   },[])
   // console.log(yt_data);
   // console.log(twitter_data);
@@ -172,10 +179,10 @@ export function Draft() {
                   <div className="border border-white rounded-xl p-6 bg-black">
                     <div className="flex items-start gap-4">
                       <div className="w-12 h-12 rounded-full bg-white flex items-center justify-center text-black font-bold text-lg">
-                        U
+                        B
                       </div>
                       <div className="flex-1">
-                        <h3 className="font-bold text-white text-lg">User</h3>
+                        <h3 className="font-bold text-white text-lg">MrBeast</h3>
                         <p className="text-white mt-2">{twitter_data && twitter_data.tweet}</p>
                       </div>
                     </div>
@@ -315,10 +322,10 @@ export function Draft() {
                     <h3 className="font-bold text-white text-lg mb-2">{renderStyledText(yt_data && yt_data.title)}</h3>
                     <div className="flex items-start gap-4">
                       <div className="w-10 h-10 rounded-full bg-white flex items-center justify-center text-black font-bold text-sm">
-                        C
+                        B
                       </div>
                       <div className="flex-1">
-                        <h4 className="font-semibold text-white">Channel Name</h4>
+                        <h4 className="font-semibold text-white">MrBeast</h4>
                         <p className="text-white mt-2">{renderStyledText(yt_data && yt_data.description)}</p>
                       </div>
                     </div>

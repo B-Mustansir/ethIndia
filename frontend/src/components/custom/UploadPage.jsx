@@ -43,10 +43,23 @@ export function UploadPage() {
     console.log(resp);
     return resp.url;
      }
+     const [socialProfiles, setSocialProfiles] = React.useState({});
+
+  React.useEffect(() => {
+    const storedProfiles = localStorage.getItem("socialProfiles");
+    if (storedProfiles) {
+      setSocialProfiles(JSON.parse(storedProfiles));}
+      else{
+        alert("Fill input handles")
+      }
+
+ 
+},[]);
 
   async function callflaskapi(blobId, platform,bucketName="myBucket") {
     const apiUrl = "http://127.0.0.1:5000/download_blob"; // Replace with your Flask server's URL
-  
+    
+
     try {
       const response = await axios.post(
         apiUrl,
@@ -55,7 +68,9 @@ export function UploadPage() {
           bucketname: bucketName,
           platform:platform,
           description:description,
-          selectedPlatforms:selectedPlatforms
+          selectedPlatforms:selectedPlatforms,
+          twitter_handle:socialProfiles.twitter,
+          yt_handle:socialProfiles.youtube
         },
         {
           headers: {
